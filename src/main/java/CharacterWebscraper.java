@@ -11,13 +11,37 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLEncoder;
-import java.util.Scanner;
-
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
+import java.sql.Array;
+import java.util.*;
 
 
 public class CharacterWebscraper {
     String address = "";
     String agent = "";
+    static Charset utf8 = StandardCharsets.UTF_8;
+    static Path path = Paths.get("src/main/resources/rawHTML.txt");
+
+
+    public void createAFile() throws IOException {
+        if( !Files.exists(path) )
+            Files.createFile(path);
+    }
+    public void writeToFile(String list) {
+        try {
+            createAFile();
+            Files.write( path, Collections.singleton(list),
+                    utf8, new StandardOpenOption[]{StandardOpenOption.APPEND});
+        } catch (IOException e) {
+            System.out.println("Error: writeToFile failed");
+            e.printStackTrace();
+        }
+    }
 
     //Scraping the Website
     public String webScrape() throws IOException {
@@ -25,6 +49,7 @@ public class CharacterWebscraper {
         agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0)";
         System.out.println("Running WebScrape");
         String webScrapedInfo = "";
+
 
         Connection.Response response = Jsoup.connect(address)
                 .userAgent(agent)
@@ -46,56 +71,52 @@ public class CharacterWebscraper {
 
 
 
-//            System.out.println(doc.nodeName());
-//
-//            URL url = new URL(address);
-//            HttpURLConnection connect = (HttpURLConnection) url.openConnection();
-//            connect.setRequestProperty("userAgent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0)");
-//            connect.setRequestProperty("Accept-Encoding", "gzip, deflate, br");
-//            connect.setRequestProperty("Accept-Language", "en-US,en;q=0.5");
-//            connect.setRequestProperty("Connection", "keep-alive");
-//            connect.setRequestProperty("Host", "en.touhouwiki.net");
-//            connect.setRequestProperty("Sec-Fetch-Dest", "document");
-//            connect.setRequestProperty("Sec-Fetch-Mode", "navigate");
-//            connect.setRequestProperty("Sec-Fetch-Site", "cross-site");
-//            connect.setRequestProperty("TE", "trailers");
-//            connect.setRequestProperty("Upgrade-Insecure-Requests", "1");
-//            connect.setRequestProperty("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8");
-//            String cookie = connect.getHeaderField("Set-Cookie").split(";")[0];
-//
-//            connect.setRequestProperty("Cookie", cookie);
-//            connect.connect();
-//
-//
-//
-//            Scanner in = new Scanner(connect.getInputStream());
-//
-//            while(in.hasNextLine()){
-//                System.out.println(in.nextLine());
-//            }
 
             Elements body = doc
                     .select("table.outcell:nth-child(7) > tbody:nth-child(1)");
 
-            System.out.println(body);
+           // System.out.println(body);
 
-            for(Element e: body){
-                webScrapedInfo += e.select("tr").toString();
-            }
+
+                webScrapedInfo = (body.select("td").select("p").toString());
+                webScrapedInfo = cleaner(webScrapedInfo);
+
+
 
 
         } catch (Exception e){
             e.printStackTrace();
         }
 
-
-
         return webScrapedInfo;
     }
+
+    private String cleaner(String recievedList){
+        recievedList = recievedList.replaceAll("[\u2022]", "\n");
+        recievedList = recievedList.replaceAll("<a href=\"/wiki/|\\\".*", "");
+        recievedList = recievedList.replaceAll("<p>|File:|.png|\\(", "");
+
+        Scanner scan = new Scanner(recievedList);
+        String temp = "";
+        try{
+            while(scan.hasNextLine()){
+                temp += "\n" + scan.nextLine().replaceAll("\\s", "");
+            }
+        } catch (Exception e){
+            e.printStackTrace();
+        }
+
+        return temp;
+
+    }
+
 
     public static void main(String[] args) throws IOException {
         CharacterWebscraper test = new CharacterWebscraper();
         System.out.println(test.webScrape());
+        /*for (String str: test.webScrape()) {
+            System.out.println(str);
+        }*/
 
 
         System.out.println("ran");
