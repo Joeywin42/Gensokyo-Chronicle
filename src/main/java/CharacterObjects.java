@@ -3,7 +3,7 @@ public class CharacterObjects {
     String title = "";
     String species = "";
     String abilities = "";
-    String age = "";
+    int age = 0;
     String occupation = "";
     String location = "";
     String musicThemes = "";
@@ -28,7 +28,6 @@ public class CharacterObjects {
                 "officialGames: " + getOfficialGames() + "\n";
     }
 
-
     //region Getters and Setters for all String Values
 
     public String getName() {
@@ -47,7 +46,7 @@ public class CharacterObjects {
         return abilities;
     }
 
-    public String getAge() {
+    public int getAge() {
         return age;
     }
 
@@ -87,7 +86,7 @@ public class CharacterObjects {
         return this;
     }
 
-    public CharacterObjects setAge(String age) {
+    public CharacterObjects setAge(int age) {
         this.age = age;
         return this;
     }
@@ -124,7 +123,7 @@ public class CharacterObjects {
                 .setTitle("")
                 .setSpecies("")
                 .setAbilities("")
-                .setAge("")
+                .setAge(500)
                 .setOccupation("")
                 .setLocation("")
                 .setMusicThemes("")
