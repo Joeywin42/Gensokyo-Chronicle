@@ -1,13 +1,15 @@
 public class CharacterObjects {
-    String name = "";
-    String title = "";
-    String species = "";
-    String abilities = "";
-    int age = 0;
-    String occupation = "";
-    String location = "";
-    String musicThemes = "";
-    String officialGames = "";
+    String name;
+    String image;
+    String title;
+    String species;
+    String abilities;
+    String age;
+    String occupation;
+    String location;
+    String musicThemes;
+    String officialGames;
+
 
 
     public CharacterObjects(){};
@@ -18,6 +20,7 @@ public class CharacterObjects {
     @Override
     public String toString(){
         return "name: " + getName() + ",\n" +
+                "image: " + getImage() +",\n" +
                 "title: " + getTitle() + ",\n" +
                 "species: " + getSpecies() + ",\n" +
                 "abilities: " + getAbilities() + ",\n" +
@@ -34,6 +37,10 @@ public class CharacterObjects {
         return name;
     }
 
+    public String getImage() {
+        return image;
+    }
+
     public String getTitle() {
         return title;
     }
@@ -46,7 +53,7 @@ public class CharacterObjects {
         return abilities;
     }
 
-    public int getAge() {
+    public String getAge() {
         return age;
     }
 
@@ -71,6 +78,11 @@ public class CharacterObjects {
         return this;
     }
 
+    public CharacterObjects setImage(String image) {
+        this.image = image;
+        return this;
+    }
+
     public CharacterObjects setTitle(String title) {
         this.title = title;
         return this;
@@ -86,7 +98,7 @@ public class CharacterObjects {
         return this;
     }
 
-    public CharacterObjects setAge(int age) {
+    public CharacterObjects setAge(String age) {
         this.age = age;
         return this;
     }
@@ -120,10 +132,11 @@ public class CharacterObjects {
 
 
         test.setName("")
+                .setImage("")
                 .setTitle("")
                 .setSpecies("")
                 .setAbilities("")
-                .setAge(500)
+                .setAge("")
                 .setOccupation("")
                 .setLocation("")
                 .setMusicThemes("")

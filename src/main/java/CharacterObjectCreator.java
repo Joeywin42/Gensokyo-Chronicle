@@ -5,6 +5,7 @@ import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class CharacterObjectCreator {
     ArrayList<CharacterObjects> allCharacters = new ArrayList<CharacterObjects>();
@@ -37,14 +38,62 @@ public class CharacterObjectCreator {
 
 
 
+            Elements body = doc.select("#wpTextbox1");
 
-            Elements body = doc
-                    .select("table.outcell:nth-child(7) > tbody:nth-child(1)");
+            webScrapedInfo = body.outerHtml();
+            webScrapedInfo = stringCleaner(webScrapedInfo);
 
         } catch (Exception e){
             e.printStackTrace();
         }
-
         return webScrapedInfo;
+    }
+    private void characterCreation(CharacterObjects object) throws IOException {
+        Scanner scan = new Scanner(webScrape(object.getName()));
+        String line = "";
+        while(scan.hasNextLine()){
+            line = scan.nextLine();
+            if(line.contains("nameEn =")){
+                object.setName(line.replaceAll("\\| nameEn = ", ""));
+            }
+            //if(line.contains(""))
+
+        }
+
+    }
+    public void createAllCharacters(){
+
+    }
+
+    private String stringCleaner(String received) {
+        Scanner scan = new Scanner(received);
+        StringBuilder temp = new StringBuilder();
+        String line = "";
+        boolean start = false;
+        //System.out.println(webScrapedInfo);
+        try {
+            while (scan.hasNextLine()) {
+                line = scan.nextLine();
+                if (line.contains("nameEn ="))
+                    start = true;
+
+                if (line.contains("appPrintworks ="))
+                    start = false;
+
+                if (start)
+                    temp.append("\n").append(line);
+
+            }
+        } catch (Exception e){
+            e.printStackTrace();
+        }
+
+        return temp.toString();
+    }
+
+    public static void main(String[] args) throws IOException {
+        CharacterObjectCreator test = new CharacterObjectCreator();
+
+        System.out.println(test.webScrape("Aya_Shameimaru"));
     }
 }
