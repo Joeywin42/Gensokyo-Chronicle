@@ -36,7 +36,7 @@ public class CharacterWebscraper {
         try {
             createAFile();
             Files.write( path, Collections.singleton(list),
-                    utf8, new StandardOpenOption[]{StandardOpenOption.APPEND});
+                    utf8, new StandardOpenOption[]{StandardOpenOption.TRUNCATE_EXISTING});
         } catch (IOException e) {
             System.out.println("Error: writeToFile failed");
             e.printStackTrace();
@@ -113,7 +113,7 @@ public class CharacterWebscraper {
 
     public static void main(String[] args) throws IOException {
         CharacterWebscraper test = new CharacterWebscraper();
-        System.out.println(test.webScrape());
+        test.writeToFile(test.webScrape());
         /*for (String str: test.webScrape()) {
             System.out.println(str);
         }*/
