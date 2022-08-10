@@ -9,6 +9,7 @@ public class CharacterObjects {
     String location;
     String musicThemes;
     String officialGames;
+    String link;
 
 
 
@@ -28,7 +29,8 @@ public class CharacterObjects {
                 "occupation: " + getOccupation() + ",\n" +
                 "location: " + getLocation() + ",\n" +
                 "musicThemes: " + getMusicThemes() + ",\n" +
-                "officialGames: " + getOfficialGames() + "\n";
+                "officialGames: " + getOfficialGames() + ",\n" +
+                "link: " + getLink() + "\n\n";
     }
 
     //region Getters and Setters for all String Values
@@ -75,6 +77,7 @@ public class CharacterObjects {
 
     public CharacterObjects setName(String name) {
         this.name = name;
+        System.out.println("SetterName= " + name );
         return this;
     }
 
@@ -120,6 +123,14 @@ public class CharacterObjects {
 
     public CharacterObjects setOfficialGames(String officialGames) {
         this.officialGames = officialGames;
+        return this;
+    }
+    public String getLink() {
+        return link;
+    }
+
+    public CharacterObjects setLink(String link) {
+        this.link = link;
         return this;
     }
 
