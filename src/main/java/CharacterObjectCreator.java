@@ -5,9 +5,14 @@ import org.jsoup.select.Elements;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class CharacterObjectCreator {
@@ -31,6 +36,8 @@ public class CharacterObjectCreator {
             }
             return names;
         }
+
+
 
     String address = "https://en.touhouwiki.net/index.php?title=%s&action=edit";
 
@@ -73,72 +80,53 @@ public class CharacterObjectCreator {
 
         return webScrapedInfo;
     }
-    public void characterCreation(CharacterObjects object, String name) throws IOException {
-        Scanner scan = new Scanner(webScrape(name));
+    public void characterCreation(CharacterObjects object) throws IOException {
+        Scanner scan = new Scanner(webScrape(object.getName()));
         String line = "";
         object.setLink(String.format(address, object.getName()));
-        while(scan.hasNextLine()){
+        while(scan.hasNextLine()) {
             line = scan.nextLine();
             //region parameter setter
-            if(line.contains("nameEn =")){
+            if (line.startsWith("nameEn =")) {
                 object.setName(line.replaceAll("\\| nameEn = ", ""));
-            }if(line.contains("| image")) {
+            }
+            if (line.startsWith("| image")) {
                 line = line.replaceAll("^(.*?)\\[\\[", "");
                 object.setImage(line.replaceAll("\\|.*", ""));
-            }if(line.contains("chartitle =")){
+            }
+            if (line.startsWith("| chartitle")) {
                 line = line.replaceAll("(.*title\\|)|", "");
                 object.setTitle(line.replaceAll("\\|.*", ""));
-            }if(line.contains("species =")){
+            }
+            if (line.startsWith("| species")) {
                 line = line.replaceAll("(.*\\[\\[)", "");
                 object.setSpecies(line.replaceAll("\\]\\]", ""));
-            }if (line.contains("abilities =")){
+            }
+            if (line.startsWith("| abilities")) {
                 object.setAbilities(line.replaceAll(".*= ", ""));
-            }if (line.contains("age =")){
+            }
+            if (line.startsWith("| age")) {
                 object.setAge(line.replaceAll(".*= ", ""));
-            }if (line.contains("occupation =")){
+            }
+            if (line.startsWith("| occupation")) {
                 object.setOccupation(line.replaceAll(".*= ", ""));
-            }if (line.contains("location =")){
+            }
+            if (line.startsWith("| location")) {
                 line = line.replaceAll(".*\\[\\[", "");
-                object.setLocation(line.replaceAll("\\]\\]" , ""));
-            }if (line.contains("MusicThemes =")){
-                line = line.replaceAll(".*\\)\\|","");
-                object.setMusicThemes(line.replaceAll("}}.*",""));
-            }if(line.contains("appOfficialgames =")){
-                line = line.replaceAll(".*\\[\\[","");
-                object.setOfficialGames(line.replaceAll("\\]\\].*",""));
+                object.setLocation(line.replaceAll("\\]\\]", ""));
             }
-            //endregion parameter setter
+            if (line.startsWith("| MusicThemes")) {
+                line = line.replaceAll(".*\\)\\|", "");
+                object.setMusicThemes(line.replaceAll("}}.*", ""));
+            }
+            if (line.startsWith("| appOfficialgames")) {
+                line = line.replaceAll(".*\\[\\[", "");
+                object.setOfficialGames(line.replaceAll("\\]\\].*", ""));
+            }
         }
-        System.out.println("YAY \n --------------------------\n" + object);
         scan.close();
-
-
+        System.out.println("YAY \n --------------------------\n" + object);
     }
-    public void createAllCharacters() throws IOException {
-        ArrayList<String> names = fillNames();
-        System.out.println(names);
-        int count = 0;
-        try {
-            for(String name: names){
-                System.out.println(name);
-                allCharacters.add(new CharacterObjects(name));
-                System.out.println(name);
-                characterCreation(allCharacters.get(count), name);
-                Thread.sleep(1500);
-                count++;
-            }
-            System.out.println(allCharacters);
-            System.out.println(allCharacters.size());
-
-
-        } catch (Exception e){
-            System.out.println("printed wrong");
-            e.printStackTrace();
-        }
-
-
-    }
-
     private String stringCleaner(String received) {
         Scanner scan = new Scanner(received);
         StringBuilder temp = new StringBuilder();
@@ -165,21 +153,27 @@ public class CharacterObjectCreator {
 
         return temp.toString();
     }
+    static Charset utf8 = StandardCharsets.UTF_8;
+    static Path path = Paths.get("src/main/resources/allCharacters.txt");
 
+    public void createAFile() throws IOException {
+        if( !Files.exists(path) )
+            Files.createFile(path);
+    }
+    public void writeToFile(String list) {
+        try {
+            createAFile();
+            Files.write( path, Collections.singleton(list),
+                    utf8, new StandardOpenOption[]{StandardOpenOption.APPEND});
+        } catch (IOException e) {
+            System.out.println("Error: writeToFile failed");
+            e.printStackTrace();
+        }
+    }
 
-
-
-
-
-
-
-
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, InterruptedException {
         CharacterObjectCreator test = new CharacterObjectCreator();
 
-        //test.characterCreation(new CharacterObjects("Tenshi_Hinanawi"));
-        //System.out.println(test.fillAllCharacter());
-        //test.createAllCharacters();
         ArrayList<CharacterObjects> characters = new ArrayList<>();
         ArrayList<String> names = test.fillNames();
         System.out.println(names);
@@ -188,13 +182,13 @@ public class CharacterObjectCreator {
         for (String name: names) {
             characters.add(new CharacterObjects(name));
         }
-        //System.out.println(characters);
-        //System.out.println(names);
+        for (int i = 0; i < names.size()-1; i++){
+            test.characterCreation(characters.get(i));
+            Thread.sleep(1*1000);
 
-
-        for (int i = 20; i < 30; i++){
-            test.characterCreation(characters.get(i), names.get(i));
-
+        }
+        for(CharacterObjects object: characters) {
+            test.writeToFile(object.toString());
         }
     }
 }
