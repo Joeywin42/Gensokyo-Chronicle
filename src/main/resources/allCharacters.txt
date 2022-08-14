@@ -10,7 +10,6 @@ musicThemes: | MusicThemes = Eastern Mystical Love Consultation,
 officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/index.php?title=Reimu_Hakurei&action=edit
 
-
 name: Marisa_Kirisame,
 image: File:Th18Marisa.png,
 title: Ordinary Magician,
@@ -22,7 +21,6 @@ location: The Kirisame Household in the Forest of Magic,
 musicThemes: Love-Coloured Magic,
 officialGames: Story of Eastern Wonderland,
 link: https://en.touhouwiki.net/index.php?title=Marisa_Kirisame&action=edit
-
 
 name: SinGyoku,
 image: File:Th01Shingyoku.png,
@@ -36,7 +34,6 @@ musicThemes: The Positive and Negative (Highly Responsive to Prayers),
 officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/index.php?title=SinGyoku&action=edit
 
-
 name: YuugenMagan,
 image: File:Th01YuugenMagan.png,
 title: EvilEyes,
@@ -48,7 +45,6 @@ location: Makai, possibly near its gate,
 musicThemes: Angel's Legend,
 officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/index.php?title=YuugenMagan&action=edit
-
 
 name: Elis,
 image: File:Th01Elis1.png,
@@ -62,7 +58,6 @@ musicThemes: Magic Mirror,
 officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/index.php?title=Elis&action=edit
 
-
 name: Sariel,
 image: File:Th01Sariel1.png,
 title: Angel of Death,
@@ -74,7 +69,6 @@ location: Makai, in the Fallen Shrine,
 musicThemes: We shall die together,
 officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/index.php?title=Sariel&action=edit
-
 
 name: Mima,
 image: File:Th05mima2.png,
@@ -88,7 +82,6 @@ musicThemes: Angel's Legend,
 officialGames: Story of Eastern Wonderland,
 link: https://en.touhouwiki.net/index.php?title=Mima&action=edit
 
-
 name: Kikuri,
 image: File:Th01Kikuri.png,
 title: HellMoon,
@@ -100,7 +93,6 @@ location: Around the Rotting World of Flames in Hell,
 musicThemes: | MusicThemes = Magic Mirror,
 officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/index.php?title=Kikuri&action=edit
-
 
 name: Konngara,
 image: File:Th01Konngara.png,
@@ -114,7 +106,6 @@ musicThemes: Swordsman of the distant Star,
 officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/index.php?title=Konngara&action=edit
 
-
 name: Genjii,
 image: File:Genjii.png,
 title: Turtle,
@@ -126,7 +117,6 @@ location: Hakurei Shrine,
 musicThemes: null,
 officialGames: Story of Eastern Wonderland,
 link: https://en.touhouwiki.net/index.php?title=Genjii&action=edit
-
 
 name: Rika,
 image: File:Th02Rika.png,
@@ -140,7 +130,6 @@ musicThemes: She's in a temper!! (Story of Eastern Wonderland),
 officialGames: Story in eastern Wonderland,
 link: https://en.touhouwiki.net/index.php?title=Rika&action=edit
 
-
 name: Meira,
 image: File:Th02meira.png,
 title: Samurai,
@@ -152,7 +141,6 @@ location: null,
 musicThemes: Power of Darkness,
 officialGames: Story of Eastern Wonderland,
 link: https://en.touhouwiki.net/index.php?title=Meira&action=edit
-
 
 name: Ellen,
 image: File:Th03Ellen.png,
@@ -166,7 +154,6 @@ musicThemes: Tabula rasa,
 officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/index.php?title=Ellen&action=edit
 
-
 name: Kotohime,
 image: File:Th03Kotohime.png,
 title: Princess Dreaming of Beauty in Danmaku,
@@ -178,7 +165,6 @@ location: null,
 musicThemes: Maniacal Princess (Phantasmagoria of Dim.Dream),
 officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/index.php?title=Kotohime&action=edit
-
 
 name: Kana_Anaberal,
 image: File:Th03Kana.png,
@@ -192,7 +178,6 @@ musicThemes: Lost Dream,
 officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/index.php?title=Kana_Anaberal&action=edit
 
-
 name: Rikako_Asakura,
 image: File:Th03Rikako.png‎,
 title: Scientist Searching for Dreams,
@@ -204,7 +189,6 @@ location: null,
 musicThemes: Dream War,
 officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/index.php?title=Rikako_Asakura&action=edit
-
 
 name: Chiyuri_Kitashirakawa,
 image: File:Th03Chiyuri.png,
@@ -218,7 +202,6 @@ musicThemes: | MusicThemes = Sailor of Time (Phantasmagoria of Dim.Dream),
 officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/index.php?title=Chiyuri_Kitashirakawa&action=edit
 
-
 name: Yumemi_Okazaki,
 image: File:Th03Yumemi.png,
 title: Fantasy Legend,
@@ -230,7 +213,6 @@ location: Outside World,
 musicThemes: Strawberry Crisis!! (Phantasmagoria of Dim. Dream),
 officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/index.php?title=Yumemi_Okazaki&action=edit
-
 
 name: Ruukoto,
 image: File:Th03Ruukoto.png,
@@ -244,7 +226,6 @@ musicThemes: null,
 officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/index.php?title=Ruukoto&action=edit
 
-
 name: Orange,
 image: File:Th04orange.png,
 title: Youkai,
@@ -256,7 +237,6 @@ location: A Mountain Path (?),
 musicThemes: Decoration Battle,
 officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/index.php?title=Orange&action=edit
-
 
 name: Kurumi,
 image: File:Th04kurumi.png,
@@ -270,7 +250,6 @@ musicThemes: Scarlet Phoneme,
 officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/index.php?title=Kurumi&action=edit
 
-
 name: Elly,
 image: File:Th04Elly.png,
 title: Gatekeeper of the Mansion,
@@ -282,7 +261,6 @@ location: Mugenkan,
 musicThemes: Perdition Crisis,
 officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/index.php?title=Elly&action=edit
-
 
 name: Yuuka_Kazami,
 image: File:Th09YuukaKazami.png,
@@ -296,7 +274,6 @@ musicThemes: Sleeping Terror, Inanimate Dream, Flower of Japan, Flower Land,
 officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/index.php?title=Yuuka_Kazami&action=edit
 
-
 name: Mugetsu,
 image: File:Th04mugetu.png,
 title: Main,
@@ -308,7 +285,6 @@ location: Unnamed Dream World,
 musicThemes: Icemilk Magic,
 officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/index.php?title=Mugetsu&action=edit
-
 
 name: Gengetsu,
 image: Image:Th04gengetu.png,
@@ -322,7 +298,6 @@ musicThemes: Innocence Devil,
 officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/index.php?title=Gengetsu&action=edit
 
-
 name: Sara,
 image: Image:Th05sara.png,
 title: Gate Keeper of Makai,
@@ -334,7 +309,6 @@ location: Makai,
 musicThemes: Magic Square,
 officialGames: Mystic Square,
 link: https://en.touhouwiki.net/index.php?title=Sara&action=edit
-
 
 name: Louise,
 image: File:Th05luize.png,
@@ -348,7 +322,6 @@ musicThemes: Spiritual Heaven,
 officialGames: Mystic Square,
 link: https://en.touhouwiki.net/index.php?title=Louise&action=edit
 
-
 name: Alice_Margatroid,
 image: File:Th105Alice.png,
 title: Seven-Colored Puppeteer,
@@ -361,7 +334,6 @@ musicThemes: Plastic Mind, Doll Judgement, The Doll Maker of Bucuresti,
 officialGames: Mystic Square,
 link: https://en.touhouwiki.net/index.php?title=Alice_Margatroid&action=edit
 
-
 name: Yuki,
 image: Image:Th05yuki01.png,
 title: Witch,
@@ -370,10 +342,9 @@ abilities: Fire Magic,
 age: null,
 occupation: Black Witch,
 location: Makai,
-musicThemes: Forbidden Magic,
+musicThemes: Forbidden Magic, Crimson Dead,
 officialGames: Mystic Square,
 link: https://en.touhouwiki.net/index.php?title=Yuki&action=edit
-
 
 name: Mai,
 image: Image:Th05mai01.png,
@@ -383,36 +354,21 @@ abilities: Ice Magic,
 age: null,
 occupation: White Witch,
 location: Makai,
-musicThemes: | MusicThemes = H:title|lang|ja|禁断の魔法　～,
+musicThemes: Forbidden Magic, Judas Kiss,
 officialGames: Mystic Square,
 link: https://en.touhouwiki.net/index.php?title=Mai&action=edit
-
-
-name: Ayana,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Ayana&action=edit
-
 
 name: Yumeko,
 image: Image:Th05yumeko.png,
 title: Makai Maid,
-species: demon,
+species: Unknown Probably youkai or demon,
 abilities: null,
 age: null,
 occupation: Maid,
 location: Makai,
-musicThemes: | MusicThemes = H:title|lang|ja|悲しき人形　～,
+musicThemes: Doll of Misery,
 officialGames: Mystic Square,
 link: https://en.touhouwiki.net/index.php?title=Yumeko&action=edit
-
 
 name: Shinki,
 image: File:Th05shinki.png,
@@ -422,23 +378,9 @@ abilities: null,
 age: null,
 occupation: God and creator of Makai,
 location: Makai,
-musicThemes: | MusicThemes = H:title|lang|ja|神話幻想　～,
+musicThemes: Infinate Being, AN ORDEAL FROM GOD,
 officialGames: Mystic Square,
 link: https://en.touhouwiki.net/index.php?title=Shinki&action=edit
-
-
-name: Trump_King,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Trump_King&action=edit
-
 
 name: Rumia,
 image: File:Th06Rumia.png,
@@ -448,10 +390,9 @@ abilities: Manipulating Darkness,
 age: null,
 occupation: null,
 location: null,
-musicThemes: | MusicThemes = H:title|lang|ja|妖魔夜行,
+musicThemes: Apparitions Stalk the Night,
 officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/index.php?title=Rumia&action=edit
-
 
 name: Daiyousei,
 image: File:SCoOW6Daiyousei.png,
@@ -465,38 +406,35 @@ musicThemes: null,
 officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/index.php?title=Daiyousei&action=edit
 
-
 name: Cirno,
 image: null,
 title: Fairy of the Ice,
 species: Fairy,
 abilities: Manipulating cold,
-age: Implied to be over age|1945|01|01 &lt;ref&gt; As shown in ''Phantasmagoria of Flower View'', she was aware of the last 60 year cycle, which implies she was alive at the time it happened. As a note, ''Phantasmagoria of Flower View'' was released in 2005 &lt;/ref&gt;, immortal,
-occupation: | occupation =,
-location: Scarlet Devil Mansion,
-musicThemes: | MusicThemes = H:title|lang|ja|おてんば恋娘,
+age: Implied to be over 77, immortal,
+occupation: null,
+location: Misty Lake, Scarlet Devil Mansion,
+musicThemes: Tomboyish Girl in Love, Adventure of the Lovestruck Tomboy,
 officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/index.php?title=Cirno&action=edit
-
 
 name: Hong_Meiling,
 image: File:Th123Meiling.png,
 title: Chinese Girl,
-species: Perfect_Memento_in_Strict_Sense/Hong_Meiling|Perfect Memento in Strict Sense — "Hong Meiling is one of the youkai that lives in the Scarlet Devil Mansion."&lt;/ref&gt;,
-abilities: Usage of wikipedia:Qi|Qi,
+species: Youkai,
+abilities: Usage of Qi,
 age: null,
 occupation: Gatekeeper and Gardener of the Scarlet Devil Mansion,
 location: Scarlet Devil Mansion,
-musicThemes: | MusicThemes = H:title|lang|ja|明治十七年の上海アリス,
+musicThemes: Alice of Meiji 17, Chinese Tea,
 officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/index.php?title=Hong_Meiling&action=edit
-
 
 name: Koakuma,
 image: File:SCoOW6Koakuma.png,
 title: null,
 species: Devil,
-abilities: | abilities =,
+abilities: ,
 age: null,
 occupation: Library Assistant,
 location: Scarlet Devil Mansion,
@@ -504,71 +442,53 @@ musicThemes: null,
 officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/index.php?title=Koakuma&action=edit
 
-
 name: Patchouli_Knowledge,
 image: File:Th105Patchouli.png,
 title: The Unmoving Great Library,
-species: Magician|Magician (Witch),
+species: Magician (Witch),
 abilities: Manipulation of fire, water, wood, metal, earth, sun, and moon,
 age: About 100 years,
 occupation: Intellectual, librarian, teacher, and scholar.,
 location: Scarlet Devil Mansion,
-musicThemes: | MusicThemes = H:title|lang|ja|ラクトガール　～ 少女密室,
+musicThemes: Locked Girl ~ The Girl's Sealed Room, Voile, The Magic Library,
 officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/index.php?title=Patchouli_Knowledge&action=edit
-
 
 name: Sakuya_Izayoi,
 image: File:Th18Sakuya.png,
 title: Maid of the Scarlet Devil Mansion,
 species: Human,
-abilities: Space-Time&lt;ref&gt;https://en.touhouwiki.net/wiki/Embodiment_of_Scarlet_Devil/Story/Reimu%27s_Scenario#:~:text=There%20is%20someone%20in%20the%20mansion%20who%20likes%20to%20mess&lt;/ref&gt; manipulation,
-age: Said to be 10-20 years old, implied to be way older&lt;ref&gt;Imperishable Night (Good Ending #3)&lt;/ref&gt;.,
+abilities: Space-Time manipulation,
+age: Said to be 10-20 years old, implied to be way older,
 occupation: Maid,
 location: Scarlet Devil Mansion,
-musicThemes: | MusicThemes = H:title|月時計　～ ルナ・ダイアル|Lunar Clock ~ Luna Dial,
+musicThemes: Lunar Clock ~ Luna Dial, The Maid and the Pocket Watch of Blood, Flowering Night,
 officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/index.php?title=Sakuya_Izayoi&action=edit
-
 
 name: Remilia_Scarlet,
 image: File:Th105Remilia.png,
 title: The Scarlet Devil,
-species: Gensokyo)'',
+species: Vampire,
 abilities: Manipulation of fate,
 age: Over 500 years old,
 occupation: Mistress of the Scarlet Devil Mansion,
 location: Outside World,
-musicThemes: | MusicThemes = H:title|lang|ja|亡き王女の為のセプテット,
+musicThemes: Septette for a Dead Princess,
 officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/index.php?title=Remilia_Scarlet&action=edit
 
-
 name: Flandre_Scarlet,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
+image: File:GI Flandre Portrait.png,
+title: Sister of the Devil,
+species: Vampire,
+abilities: Destroying absolutely anything,
+age: approximately 495 years old,
 occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Flandre_Scarlet&action=edit
-
-
-name: Rin_Satsuki,
-image: ,
-title: null,
-species: Kirin?,
-abilities: null,
-age: null,
-occupation: Nurse?,
-location: null,
-musicThemes: null,
+location: Scarlet Devil Mansion,
+musicThemes: U.N. Owen Was Her?,
 officialGames: Embodiment of Scarlet Devil,
-link: https://en.touhouwiki.net/index.php?title=Rin_Satsuki&action=edit
-
+link: https://en.touhouwiki.net/index.php?title=Flandre_Scarlet&action=edit
 
 name: Letty_Whiterock,
 image: File:Th07Letty.png,
@@ -578,10 +498,9 @@ abilities: Manipulation of chill,
 age: null,
 occupation: null,
 location: null,
-musicThemes: | MusicThemes = H:title|クリスタライズシルバー|Crystallized Silver,
+musicThemes: Crystallized Silver,
 officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Letty_Whiterock&action=edit
-
 
 name: Chen,
 image: File:Th07Chen.png,
@@ -595,7 +514,6 @@ musicThemes: Diao ye zong (Withered Leaf),
 officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Chen&action=edit
 
-
 name: Lily_White,
 image: FIle:SCoOW6Lily.png,
 title: Fairy Herald of Spring,
@@ -608,84 +526,77 @@ musicThemes: null,
 officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Lily_White&action=edit
 
-
-name: Prismriver_Sisters,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Prismriver_Sisters&action=edit
-
-
 name: Lunasa_Prismriver,
-image: null,
-title: null,
-species: null,
-abilities: null,
+image: File:Th09Lunasa.png,
+title: Poltergeist Violinist,
+species: Poltergeist,
+abilities: Performing on musical instruments without hands or feet. Performing melancholic notes,
 age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
+occupation: Violinist of a musical performance,
+location: Ruined Western Mansion,
+musicThemes: Phantom Ensemble,
+officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Lunasa_Prismriver&action=edit
 
+name: Lyrica_Prismriver,
+image: File:Th09Lyrica.png
+title: Poltergeist Keyboardist,
+species: Poltergeist
+abilities: Performing on Musical instruments without hands or feet, performing illusionary notes,
+age: null,
+occupation: Keyboardist of a musical performance ensemble,
+location: Ruined Western Mansion,
+musicThemes: Phantom Ensemble,
+officialGames: Perfect Cherry Blossom,
+link: https://en.touhouwiki.net/index.php?title=Lyrica_Prismriver&action=edit
 
 name: Merlin_Prismriver,
-image: null,
-title: null,
-species: null,
-abilities: null,
+image: File:Th09Merlin.png,
+title: Poltergeist Trumpeter,
+species: Poltergeist,
+abilities: Performing on musical instruments without hands or feet, performing maniac notes,
 age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
+occupation: Trumpeter of a musical performance ensemble ,
+location: Ruined Western Mansion,
+musicThemes: Phantom Ensemble,
+officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Merlin_Prismriver&action=edit
-
 
 name: Youmu_Konpaku,
 image: File:Th17Youmu.png,
 title: Half-Human Half-Phantom Gardener,
 species: phantom,
 abilities: Handling sword techniques,
-age: At least 30, implied closer to 50 (as of 2004)&lt;ref&gt;Immaterial_and_Missing_Power/Story/Youmu%27s_Script|Immaterial and Missing Power versus script&lt;/ref&gt;, less than 60 (as of 2005)&lt;ref&gt;Seasonal Dream Vision/A Beautiful Flower Blooming Violet Every Sixty Years#YoumusAge|A Beautiful Flower Blooming Violet Every Sixty Years&lt;/ref&gt;,
+age: At least 30, implied closer to 50 (as of 2004) less than 60 (as of 2005),
 occupation: Gardener, swordsmanship instructor,
 location: Hakugyokurou,
-musicThemes: | MusicThemes = H:title|広有射怪鳥事　～ Till When?|Hiroari Shoots a Strange Bird ~ Till When?,
+musicThemes: Till When?|Hiroari Shoots a Strange Bird ~ Till When?, Ancient Temple,
 officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Youmu_Konpaku&action=edit
-
 
 name: Yuyuko_Saigyouji,
 image: File:Th13Yuyuko.png,
 title: Dreaming Ghost,
 species: Ghost,
 abilities: Manipulation of death, Manipulation of departed souls,
-age: Dead/Immortal (Presumed to have "died over 1000 years ago" according to Perfect Memento in Strict Sense/Yuyuko Saigyouji|PMiSS. Born sometime in the 12th century if the daughter of wikipedia:Saigyō Hōshi|Saigyō Hōshi),
+age: Dead/Immortal (Presumed to have "died over 1000 years ago" according to Perfect Memento in Strict Sense. Born sometime in the 12th century.,
 occupation: Departed spirit princess,
 location: Hakugyokurou,
-musicThemes: | MusicThemes = H:title|lang|ja|幽雅に咲かせ、墨染の桜　～,
+musicThemes: Border of life| Bloom nobly Ink-black Cherry Blssom, Ghost Lead,
 officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Yuyuko_Saigyouji&action=edit
 
-
 name: Ran_Yakumo,
-image: null,
+image: File:Ran.png,
 title: Shikigami of the Gap Youkai,
-species: Shikigami),
+species: Youkai Fox, (Shikigami),
 abilities: Using Shikigami,
-age: At least 800 years.&lt;ref&gt;Kitsune grow one tail every 100 years, putting her minimum age at 800 years.&lt;/ref&gt;,
+age: At least 800 years, Kitsune grow one tail every 100 years, putting her minimum age at 800 years,
 occupation: Yukari's servant,
-location: Gensokyo,
-musicThemes: | MusicThemes = H:title|少女幻葬　～ Necro-Fantasy|A Maiden's Illusionary Funeral ~ Necro-Fantasy,
+location: Boundary of Gensokyo,
+musicThemes: 少女幻葬　～ Necro-Fantasy|A Maiden's Illusionary Funeral ~ Necro-Fantasy,
 officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Ran_Yakumo&action=edit
-
 
 name: Yukari_Yakumo,
 image: File:Th155Yukari.png,
@@ -695,10 +606,9 @@ abilities: Manipulation of boundaries,
 age: At least 1,200 years old, older than the history of Gensokyo itself,
 occupation: Sage, maintaining Gensokyo's balance and order,
 location: Gensokyo,
-musicThemes: | MusicThemes = H:title|ネクロファンタジア|Necrofantasia,
+musicThemes: ネクロファンタジア|Necrofantasia,
 officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Yukari_Yakumo&action=edit
-
 
 name: Shanghai_Doll,
 image: File:Swr_shanghai.png,
@@ -706,25 +616,23 @@ title: null,
 species: Doll,
 abilities: Unknown (Destructive magic?) ,
 age: null,
-occupation: A doll used in one of Alice Margatroid|Alice's spell cards,
+occupation: A doll used in one of Alice Margatroid's spell cards,
 location: Forest of Magic,
 musicThemes: null,
 officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Shanghai_Doll&action=edit
 
-
-name: Hourai_Doll,
-image: null,
+name: Hourai,
+image: File:Th075Hourai.png,
 title: null,
-species: null,
-abilities: null,
+species: Doll,
+abilities: Unknown (Destructive Magic),
 age: null,
-occupation: null,
-location: null,
+occupation: A doll used in one of Alice's spell cards ,
+location: Forest of magic,
 musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Hourai_Doll&action=edit
-
+officialGames: Perfect Cherry Blossom,
+link: https://en.touhouwiki.net/index.php?title=Hourai&action=edit
 
 name: Layla_Prismriver,
 image: null,
@@ -735,22 +643,20 @@ age: Deceased,
 occupation: null,
 location: Ruined Western Mansion,
 musicThemes: null,
-officialGames: Prismriver Sisters,
+officialGames: Referenced in Prismriver Sisters Official Profile,
 link: https://en.touhouwiki.net/index.php?title=Layla_Prismriver&action=edit
 
-
 name: Youki_Konpaku,
-image: ,
+image: null,
 title: null,
 species: Half-human half-phantom,
 abilities: Swordsmanship,
 age: Unknown, but at least 300 years old,
 occupation: Currently in hermitude, former gardener and swordsmanship instructor,
-location: Hakugyokurou,
+location: used to live in Hakugyokurou,
 musicThemes: null,
-officialGames: Youmu Konpaku,
+officialGames: Youmu Konpaku's Official Profile,
 link: https://en.touhouwiki.net/index.php?title=Youki_Konpaku&action=edit
-
 
 name: Saigyou_Ayakashi,
 image: Image:th07ayakashi01.png,
@@ -759,11 +665,10 @@ species: Youkai cherry blossom tree,
 abilities: Charming people into resting in peace under its blossoms, then draining the life out of them,
 age: Over 1000 years (actual age is unknown, but is known to be older than Yuyuko Saigyouji),
 occupation: Bewitching people,
-location: Hakugyokurou,
+location: Gardens of Hakugyokurou,
 musicThemes: null,
 officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/index.php?title=Saigyou_Ayakashi&action=edit
-
 
 name: Suika_Ibuki,
 image: File:TH105Suika.png,
@@ -772,24 +677,22 @@ species: Oni,
 abilities: Manipulation of density and sparseness,
 age: null,
 occupation: null,
-location: Ancient City,
-musicThemes: | MusicThemes = H:title|lang|ja|御伽の国の鬼が島 ～,
+location: Youkai Mountain, Heaven, Hakurei Shrine, Used to live in Ancient City,
+musicThemes: Missing Power|Onigashima in the Fairyland ~ Missing Power, Broken Moon,
 officialGames: Immaterial and Missing Power,
 link: https://en.touhouwiki.net/index.php?title=Suika_Ibuki&action=edit
-
 
 name: Wriggle_Nightbug,
 image: File:Th08WriggleNightbug.png,
 title: A Bug of Light Wriggling in the Dark,
-species: Youkai,
+species: Firefly Youkai,
 abilities: Manipulation of insects,
 age: null,
-occupation: | occupation =,
-location: | location =,
-musicThemes: | MusicThemes = H:title|lang|ja|蠢々秋月　～,
+occupation: null,
+location: name,
+musicThemes: Wriggling Autumn Moon ~ Mooned Insect,
 officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/index.php?title=Wriggle_Nightbug&action=edit
-
 
 name: Mystia_Lorelei,
 image: File:Th09MystiaLorelei.png,
@@ -799,23 +702,21 @@ abilities: Driving people insane by singing, bewildering people by singing,
 age: Unknown, but implied to be young.,
 occupation: Grilled lamprey vendor, tricking humans into getting lost.,
 location: Youkai Trail, "Roads at night",
-musicThemes: | MusicThemes = H:title|もう歌しか聞こえない|Deaf to All but the Song,
+musicThemes: Deaf to All but the Song,
 officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/index.php?title=Mystia_Lorelei&action=edit
 
-
 name: Keine_Kamishirasawa,
-image: ,
+image: File:Th08KeineKamishirasawa2.png,
 title: History-Eating Half Beast,
-species: hakutaku,
-abilities: Eating history (as a human)&lt;br/&gt;Creating history (as a hakutaku),
+species: Were hakutaku,
+abilities: Eating history (as a human) & Creating history (as a hakutaku),
 age: null,
-occupation: Schoolteacher at Human Village#Sub-Locations|Hieda Temple School; acts as guardian of the human village,
+occupation: Schoolteacher at Human Village Sub-Locations|Hieda Temple School; acts as guardian of the human village,
 location: Human Village,
-musicThemes: | MusicThemes = H:title|lang|ja|プレインエイジア,
+musicThemes: Plain Asia,
 officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/index.php?title=Keine_Kamishirasawa&action=edit
-
 
 name: Tewi_Inaba,
 image: File:Th09TewiInaba.png,
@@ -825,49 +726,45 @@ abilities: Conferring good luck to humans,
 age: At least 3,000 years old.,
 occupation: Leader of rabbits in Eientei,
 location: Eientei,
-musicThemes: | MusicThemes = H:title|お宇佐さまの素い幡|White Flag of Usa Shrine,
+musicThemes: White Flag of Usa Shrine,
 officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/index.php?title=Tewi_Inaba&action=edit
-
 
 name: Reisen_Udongein_Inaba,
 image: File:Th155Reisen.png,
 title: Lunar-Minded and Asynchronous Youkai Rabbit,
-species: Legacy of Lunatic Kingdom/Story/Reisen's Scenario|Reisen's Scenario&lt;/ref&gt;,
+species: Rabbit|Earth Rabbit, Rabbit|Moon Rabbit (former),
 abilities: Manipulation of insanity and wavelengths,
-age: Unknown, at least age|1969|01|01 years old,
-occupation: Kaguya Houraisan | Kaguya's pet, Eirin Yagokoro | Eirin's student, medicine and wares peddler,
-location: Moon,
-musicThemes: | MusicThemes = H:title|lang|ja|狂気の瞳　～,
+age: Unknown, at least 53 years old,
+occupation: Kaguya's pet, Eirin's student, medicine and wares peddler,
+location: Eientei,
+musicThemes: Lunatic Eyes ~ Invisible Full Moon,
 officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/index.php?title=Reisen_Udongein_Inaba&action=edit
-
 
 name: Eirin_Yagokoro,
 image: File:Th08EirinYagokoro.png,
 title: Brain of the Moon,
-species: God),
-abilities: Making any drug.&lt;br/&gt;Natural Genius.,
-age: At least 1500 years old, older than Lord Tsukuyomi and the Lunar Capital, possibly hundreds of millions years old.&lt;ref&gt;帰るべき城|A castle to return to - [https://thwiki.cc/ZUN/%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D booklet]: 原作者ZUN氏に聞いたところ（酔っぱらった時に聞いた答えだが）、永琳や輝夜の年齢は億単位だそうだ。&lt;/ref&gt;&lt;ref&gt;Strange Creators of Outer World/Introduction of Previous Works/Imperishable Night/Fragment of Phantasy|Strange Creators of Outer World Vol. 2 - Imperishable Night's Fragment of Fantasy&lt;/ref&gt;,
+species: Lunarian (God),
+abilities: Making any drug, Natural Genius.,
+age: At least 1500 years old, older than Lord Tsukuyomi and the Lunar Capital, possibly hundreds of millions years old,
 occupation: Pharmacist,
-location: Moon,
-musicThemes: | MusicThemes = H:title|千年幻想郷　～ History of the Moon|Gensokyo Millennium ~ History of the Moon,
+location: Eientei,
+musicThemes: History of the Moon|Gensokyo Millennium ~ History of the Moon,
 officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/index.php?title=Eirin_Yagokoro&action=edit
-
 
 name: Kaguya_Houraisan,
 image: File:Th08Kaguya.png,
 title: Eternal Princess,
-species: Gensokyo)'',
+species: Lunarian,
 abilities: Manipulation of eternity and the instantaneous,
-age: Ageless, existed for at least 1300 years. Stated by ZUN (drunkenly) to be hundreds of millions of years old.&lt;ref&gt;帰るべき城|A castle to return to - [https://thwiki.cc/ZUN/%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D booklet]: 原作者ZUN氏に聞いたところ（酔っぱらった時に聞いた答えだが）、永琳や輝夜の年齢は億単位だそうだ。&lt;/ref&gt;,
+age: Ageless, existed for at least 1300 years. Stated by ZUN (drunkenly) to be hundreds of millions of years old.,
 occupation: Unknown, currently in hiding, formerly a moon princess.,
-location: Moon,
-musicThemes: | MusicThemes = H:title|lang|ja|竹取飛翔　～,
+location: Eientei,
+musicThemes: Flight of the bamboo cutter ~ Lunatic Princess,
 officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/index.php?title=Kaguya_Houraisan&action=edit
-
 
 name: Fujiwara_no_Mokou,
 image: Image:Th155Mokou.png,
@@ -875,12 +772,11 @@ title: Figure of the Person of Hourai,
 species: Human,
 abilities: Eternal youth and immortality, resistance to and manipulation of fire,
 age: Ageless; existed for over 1300 years,
-occupation: Rescues lost people, Bamboo Forest of the Lost|Bamboo Forest guide, claims to run a Wikipedia:Yakitori|yakitori stand,
+occupation: Rescues lost people, Bamboo Forest guide, claims to run a yakitori stand,
 location: Bamboo Forest of the Lost,
-musicThemes: | MusicThemes = H:title|lang|ja|月まで届け、不死の煙,
+musicThemes: Reach for the moon, Immortal Smoke,
 officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/index.php?title=Fujiwara_no_Mokou&action=edit
-
 
 name: Aya_Shameimaru,
 image: File:Th16Aya.png,
@@ -894,19 +790,17 @@ musicThemes: Wind God Girl (Short Version),
 officialGames: Phantasmagoria of Flower View,
 link: https://en.touhouwiki.net/index.php?title=Aya_Shameimaru&action=edit
 
-
 name: Medicine_Melancholy,
 image: File:Th09MedicineMelancholy.png,
 title: Little Sweet Poison,
-species: youkai,
+species: Doll gone youkai ,
 abilities: Manipulation of poison,
-age: Ageless&lt;ref&gt;Phantasmagoria of Flower View/Story/Komachi's Script#Komachi_defeats_Medicine|''Phantasmagoria of Flower View'' (VS Mode): - &lt;i&gt;"Another one without a lifespan.,
-occupation: | occupation =,
+age: Ageless,
+occupation: null,
 location: Hill of the Nameless,
-musicThemes: | MusicThemes = H:title|ポイズンボディ　～ Forsaken Doll|Poison Body ~ Forsaken Doll,
+musicThemes: Forsaken Doll|Poison Body ~ Forsaken Doll,
 officialGames: Phantasmagoria of Flower View,
 link: https://en.touhouwiki.net/index.php?title=Medicine_Melancholy&action=edit
-
 
 name: Komachi_Onozuka,
 image: File:KomachiSWR.png,
@@ -915,128 +809,118 @@ species: Shinigami,
 abilities: Manipulation of distance,
 age: null,
 occupation: Carries dead spirits to the yama (Eiki Shiki, Yamaxanadu),
-location: Hell,
-musicThemes: | MusicThemes = H:title|lang|ja|彼岸帰航　～,
+location: Sanzu River, Hell,
+musicThemes: Higan Retour ~ Riverside View,
 officialGames: Phantasmagoria of Flower View,
 link: https://en.touhouwiki.net/index.php?title=Komachi_Onozuka&action=edit
-
 
 name: Eiki_Shiki,_Yamaxanadu,
 image: File:Th09ShikieikiYamaxanadu.png,
 title: Supreme Judge of Paradise,
 species: Yama,
 abilities: Can distinctly judge anything to be good or evil,
-age: ,
+age: null,
 occupation: Judge of the Dead,
-location: Higan,
-musicThemes: | MusicThemes = H:title|lang|ja|六十年目の東方裁判　～,
+location: Hell, Sometimes Higan,
+musicThemes: Fate of sixty years,
 officialGames: Phantasmagoria of Flower View,
 link: https://en.touhouwiki.net/index.php?title=Eiki_Shiki,_Yamaxanadu&action=edit
 
-
 name: Shizuha_Aki,
-image: null,
-title: null,
-species: null,
-abilities: null,
+image: File:Th10Shizuha.png,
+title: Symbol of Loneliness and Demise,
+species: Goddess of the autumn leaves,
+abilities: Controlling the turning of leaves,
 age: null,
 occupation: null,
-location: null,
+location: Near the Youkai mountain,
 musicThemes: null,
-officialGames: null,
+officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/index.php?title=Shizuha_Aki&action=edit
 
-
 name: Minoriko_Aki,
-image: null,
-title: null,
-species: null,
-abilities: null,
+image: File:Th10Minoriko.png,
+title: Symbol of Abundance and Plenty,
+species: Harvest Goddess,
+abilities: controlling abundent Harvest,
 age: null,
 occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
+location: Near the Youkai Mountain,
+musicThemes: Because Princess Inada Is Scolding Me,
+officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/index.php?title=Minoriko_Aki&action=edit
 
-
 name: Hina_Kagiyama,
-image: null,
-title: null,
-species: null,
-abilities: null,
+image: File:Th10Hina.png,
+title: The Hidden God Nagashi-bina,
+species: Misfortune God,
+abilities: stockpiling misfortune,
 age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
+occupation: Chasing away lost humans, gathering the misfortune of humans ,
+location: The Great Youkai Forest, near a river,
+musicThemes: Dark side of fate,
+officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/index.php?title=Hina_Kagiyama&action=edit
 
-
 name: Nitori_Kawashiro,
-image: null,
-title: null,
-species: null,
-abilities: null,
+image: File:Th155Nitori.png,
+title: Super Youkai Warhead,
+species: Kappa,
+abilities: Manipulation of water,
 age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
+occupation: Engineer,
+location: Genbu River,
+musicThemes: Candid Friend,
+officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/index.php?title=Nitori_Kawashiro&action=edit
 
-
 name: Momiji_Inubashiri,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
-occupation: null,
-location: null,
+image: File:Th125Momizi01.png,
+title: The Petty Patrol Tengu,
+species: Hakurou Tengu|White Wolf Tengu,
+abilities: Seeing a thousand ri ahead,
+age: At least over 59 years old, said to be especially long-lived,
+occupation: Patrolling and guarding Youkai Mountain,
+location: Youkai Mountain,
 musicThemes: null,
-officialGames: null,
+officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/index.php?title=Momiji_Inubashiri&action=edit
-
 
 name: Sanae_Kochiya,
 image: File:Th18Sanae.png,
 title: Newbie Goddess of the Mountain,
-species: Gensokyo)'',
+species: Human/Living God,
 abilities: Causing miracles to occur,
 age: null,
 occupation: Wind Priestess, Shrine Maiden,
-location: Outside World|Suwa in the Shinano Province, Japan.,
-musicThemes: | MusicThemes = H:title|lang|ja|信仰は儚き人間の為に,
+location: Moriya Shrine,
+musicThemes: Faith Is for the Transient People,
 officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/index.php?title=Sanae_Kochiya&action=edit
 
-
 name: Kanako_Yasaka,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
+image: File:Th175Kanako.png,
+title: The Avatar of Mountains and Lakes,
+species: Goddess of wind and rain,
+abilities: creating heavenliness (Qian),
+age: over 2000 years old,
+occupation: Goddess of Moriya Shrine,
+location: Wind God's Lake at Moriya Shrine,
+musicThemes: The Venerable Ancient Battlefield ~ Suwa Foughten Field,
+officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/index.php?title=Kanako_Yasaka&action=edit
-
 
 name: Suwako_Moriya,
 image: File:Th123Suwako.png,
 title: The Highest of Indigenous Gods,
-species: Gensokyo)'',
+species: God of Mountains,
 abilities: Creating earthiness,
-age: Unknown, but one of the oldest gods; she far predates the invasion by the Goddess Kanako Yasaka|Kanako and the Wikipedia:Yamato|Yamato in the Gensokyo_Timeline#Historical_events|Great Suwa War, approximately 2300 years ago.,
+age: Unknown, but one of the oldest gods; she far predates the invasion by the Goddess Kanako and the Yamato approximately 2300 years ago.,
 occupation: Former goddess of Moriya Shrine,
-location: Outside World,
-musicThemes: | MusicThemes = H:title|lang|ja|ネイティブフェイス,
+location: Moriya Shrine,
+musicThemes: Native Faith,
 officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/index.php?title=Suwako_Moriya&action=edit
-
 
 name: Tenma,
 image: null,
@@ -1047,35 +931,32 @@ age: null,
 occupation: Chief of the Tengu,
 location: Youkai Mountain,
 musicThemes: null,
-officialGames: Aya Shameimaru|Aya,
+officialGames:Referenced in Aya Shameimaru's Official Profile,
 link: https://en.touhouwiki.net/index.php?title=Tenma&action=edit
-
 
 name: Mishaguji,
 image: file:TH123Mishaguji.png,
 title: null,
 species: God,
 abilities: The ability to cast curses,
-age: Unknown, but one of the oldest gods; may date back to as far back as the Wikipedia:Jōmon period|Jomon period.,
+age: Unknown, but one of the oldest gods; may date back to as far back as the Jomon period (14000 - 300 BCE),
 occupation: Curse god,
 location: Moriya Shrine,
 musicThemes: null,
 officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/index.php?title=Mishaguji&action=edit
 
-
 name: Iku_Nagae,
 image: File:Th105Iku.png,
 title: Beautiful Scarlet Cloth,
-species: oarfish),
+species: Youkai oarfish,
 abilities: Reading the atmosphere,
 age: null,
 occupation: Envoy of the Dragon Palace,
-location: Gensokyo,
-musicThemes: | MusicThemes = H:title|lang|ja|黒い海に紅く　～,
+location: Clouds over Gensokyo,
+musicThemes: Crimson in the Black Sea ~ Legendary Fish,
 officialGames: Scarlet Weather Rhapsody,
 link: https://en.touhouwiki.net/index.php?title=Iku_Nagae&action=edit
-
 
 name: Tenshi_Hinanawi,
 image: File:Th155Tenshi.png,
@@ -1085,10 +966,9 @@ abilities: Manipulation of earth, identification of one's spirit (Sword of Hisou
 age: null,
 occupation: Celestial,
 location: Heaven,
-musicThemes: null,
+musicThemes: Catastrophe in Bhavaagra ~ Wonderful Heaven, Bhavaagra As Seen Through a Child's Mind,
 officialGames: Scarlet Weather Rhapsody,
 link: https://en.touhouwiki.net/index.php?title=Tenshi_Hinanawi&action=edit
-
 
 name: Kisume,
 image: File:Th11Kisume.png,
@@ -1102,7 +982,6 @@ musicThemes: null,
 officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/index.php?title=Kisume&action=edit
 
-
 name: Yamame_Kurodani,
 image: File:Th175Yamame.png,
 title: The Bright Net in the Dark Cave,
@@ -1111,10 +990,9 @@ abilities: Manipulation of illness (mainly infectious disease),
 age: null,
 occupation: null,
 location: Underworld,
-musicThemes: | MusicThemes = H:title|lang|ja|封じられた妖怪　～,
+musicThemes: The Sealed-Away Youkai ~ Lost Place,
 officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/index.php?title=Yamame_Kurodani&action=edit
-
 
 name: Parsee_Mizuhashi,
 image: File:Th11Parsee.png,
@@ -1124,23 +1002,21 @@ abilities: Manipulation of jealousy,
 age: null,
 occupation: Bridge Overseer,
 location: Underworld,
-musicThemes: | MusicThemes = H:title|lang|ja|緑眼のジェラシー,
+musicThemes: Green-Eyed Jealousy,
 officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/index.php?title=Parsee_Mizuhashi&action=edit
 
-
 name: Yuugi_Hoshiguma,
-image: null,
+image: File:Th175Yuugi.png,
 title: The So-Called Unexplainable Phenomenon,
 species: Oni,
 abilities: Wielding unexplainable phenomena,
 age: null,
 occupation: Manager of Former Hell’s Hot Spring Town,
 location: Ancient City,
-musicThemes: | MusicThemes = H:title|lang|ja|華のさかづき大江山,
+musicThemes: A Flower-Studded Sake Dish on Mt. Ooe,
 officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/index.php?title=Yuugi_Hoshiguma&action=edit
-
 
 name: Satori_Komeiji,
 image: File:Th11Satori.png,
@@ -1150,10 +1026,9 @@ abilities: Reading minds,
 age: null,
 occupation: Master of the Palace of the Earth Spirits, Anonymous book writer, Detective.,
 location: Palace of the Earth Spirits,
-musicThemes: | MusicThemes = H:title|lang|ja|少女さとり　～,
+musicThemes: Satori Maiden ~ 3rd eye,
 officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/index.php?title=Satori_Komeiji&action=edit
-
 
 name: Rin_Kaenbyou,
 image: File:Th11Rin.png,
@@ -1163,10 +1038,9 @@ abilities: Carrying away corpses, controlling and communicating with spirits,
 age: null,
 occupation: Controller of spirits in the remnants of the Hell of Blazing Fires,
 location: Palace of the Earth Spirits,
-musicThemes: | MusicThemes = H:title|lang|ja|死体旅行　～,
+musicThemes: Corpse Voyage ~ Be of good cheer!,
 officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/index.php?title=Rin_Kaenbyou&action=edit
-
 
 name: Utsuho_Reiuji,
 image: File:GI Utsuho Portrait.png‎,
@@ -1176,49 +1050,45 @@ abilities: Manipulation of nuclear fusion,
 age: null,
 occupation: Regulator of the flames in the former Hell of Blazing Fires,
 location: Hell of Blazing Fires,
-musicThemes: | MusicThemes = H:title|lang|ja|霊知の太陽信仰　～,
+musicThemes: Solar Sect of Mystic Wisdom ~ Nuclear Fusion,
 officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/index.php?title=Utsuho_Reiuji&action=edit
-
 
 name: Koishi_Komeiji,
 image: File:Th155Koishi.png,
 title: The Closed Eyes of Love,
 species: Satori (Species)|Satori,
-abilities: Manipulation of the Wikipedia:Unconscious_mind|Unconscious Mind,
+abilities: Manipulation of the Unconscious Mind,
 age: null,
 occupation: None,
-location: Myouren Temple,
-musicThemes: | MusicThemes = H:title|lang|ja|ハルトマンの妖怪少女,
+location: Palace of the Earth Spirits, Myouren Temple,
+musicThemes: Hartmann's Youkai Girl,
 officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/index.php?title=Koishi_Komeiji&action=edit
-
 
 name: Nazrin,
 image: File:Th12Nazrin1.png,
 title: The Little Dowser General,
-species: youkai,
+species: Mouse youkai,
 abilities: Finding sought-for items,
 age: At least 1000 years,
 occupation: Dowser, said to be a leader of mice,
-location: Muenzuka,
-musicThemes: | MusicThemes = H:title|lang|ja|小さな小さな賢将,
+location: Temple of Myouren, Muenzuka,
+musicThemes: A Tiny, Tiny, Clever Commander,
 officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/index.php?title=Nazrin&action=edit
-
 
 name: Kogasa_Tatara,
 image: File:Th175Kogasa.png,
 title: The Cheery Forgotten Umbrella,
-species: Tsukumogami#Karakasa obake|Karakasa obake,
+species: Karakasa obake,
 abilities: Surprising humans, First-rate Blacksmithing,
 age: null,
 occupation: Scaring Humans, Blacksmith,
-location: Moriya Shrine&lt;ref name="SoPMKogasa" /&gt;,
-musicThemes: | MusicThemes = H:title|lang|ja|万年置き傘にご注意を,
+location: Human Village, Myouren Temple (Cemetery), Hakurei Shrine, Moriya Shrine ,
+musicThemes: Beware the Umbrella Left There Forever,
 officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/index.php?title=Kogasa_Tatara&action=edit
-
 
 name: Ichirin_Kumoi,
 image: File:Th155Ichirin.png,
@@ -1228,10 +1098,9 @@ abilities: Using nyuudou,
 age: At least 1000 years,
 occupation: Guardian of the Palanquin Ship,
 location: Myouren Temple,
-musicThemes: | MusicThemes = H:title|lang|ja|時代親父とハイカラ少女,
+musicThemes: The Traditional Old Man and the Stylish Gir,
 officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/index.php?title=Ichirin_Kumoi&action=edit
-
 
 name: Unzan,
 image: File:Th135Unzan.png,
@@ -1241,23 +1110,21 @@ abilities: Changing shape and size at will,
 age: null,
 occupation: null,
 location: Myouren Temple,
-musicThemes: | MusicThemes = H:title|時代親父とハイカラ少女|The Traditional Old Man and the Stylish Girl,
+musicThemes: The Traditional Old Man and the Stylish Girl,
 officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/index.php?title=Unzan&action=edit
 
-
 name: Minamitsu_Murasa,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
+image: File:Th175Murasa.png,
+title: The Ghost Left From the Shipwreck Accident,
+species: Ship Phantom,
+abilities: Causing shipwrecks,
+age: Dead,
+occupation: Captain,
+location: Palanquin Ship, Myouran Temple,
+musicThemes: Captain Murasa,
+officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/index.php?title=Minamitsu_Murasa&action=edit
-
 
 name: Shou_Toramaru,
 image: File:Th12Shou.png,
@@ -1267,62 +1134,33 @@ abilities: Gathering treasures,
 age: At least 1000 years,
 occupation: Disciple of Bishamonten,
 location: Myouren Temple,
-musicThemes: | MusicThemes = H:title|lang|ja|虎柄の毘沙門天,
+musicThemes: The Tiger-Patterned Vaisravana,
 officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/index.php?title=Shou_Toramaru&action=edit
-
 
 name: Byakuren_Hijiri,
 image: File:Th155Byakuren.png,
 title: The Sealed Great Magician,
-species: Human),
+species: Magician, Human (former),
 abilities: Magic (specialization in magic that increases her physical abilities),
 age: Over 1100 years old,
 occupation: Monk,
 location: Myouren Temple,
-musicThemes: | MusicThemes = H:title|lang|ja|感情の摩天楼　～,
-officialGames: Boss,
+musicThemes: Cosmic Mind|Emotional Skyscraper ~ Cosmic Mind,
+officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/index.php?title=Byakuren_Hijiri&action=edit
-
 
 name: Nue_Houjuu,
 image: File:Nue2.png,
 title: The Unidentified Fantastic Flying Girl,
-species: Nue (Species)|Nue,
+species: Nue,
 abilities: Making objects unidentifiable,
 age: More than 800 Years old,
 occupation: Scaring people,
 location: Myouren Temple,
-musicThemes: | MusicThemes = H:title|平安のエイリアン|Heian Alien,
+musicThemes: Heian Alien,
 officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/index.php?title=Nue_Houjuu&action=edit
-
-
-name: Bishamonten,
-image: null,
-title: null,
-species: God,
-abilities: Divine power,
-age: Older than the history of Buddhism,
-occupation: God of treasure, wikipedia:War|warfare, and punishing evil,
-location: Wikipedia:Sumeru|Mount Sumeru,
-musicThemes: null,
-officialGames: Undefined Fantastic Object,
-link: https://en.touhouwiki.net/index.php?title=Bishamonten&action=edit
-
-
-name: Myouren_Hijiri,
-image: null,
-title: null,
-species: Human,
-abilities: Buddhist magic,
-age: Unknown (deceased),
-occupation: Monk,
-location: null,
-musicThemes: null,
-officialGames: Byakuren Hijiri,
-link: https://en.touhouwiki.net/index.php?title=Myouren_Hijiri&action=edit
-
 
 name: Goliath_Doll,
 image: File:Th123GoliathDoll.png,
@@ -1333,15 +1171,14 @@ age: null,
 occupation: A doll used in one of Alice Margatroid|Alice's spell cards,
 location: Forest of Magic,
 musicThemes: null,
-officialGames: Touhou Hisoutensoku|Touhou Hisoutensoku standalone,
+officialGames: Touhou Hisoutensoku,
 link: https://en.touhouwiki.net/index.php?title=Goliath_Doll&action=edit
-
 
 name: Giant_Catfish,
 image: File:Th123Catfish.png,
 title: null,
 species: Namazu,
-abilities: Causing earthquakes &lt;ref&gt;cite web|url=http://web-japan.org/nipponia/nipponia33/en/animal/animal01.html|title=Catfish and Earthquakes in Folklore and Fact|access-date=20 August 2009&lt;/ref&gt;, Wikipedia:Doppelganger|Impersonation/Shape-Shifting?,
+abilities: Causing earthquakes,
 age: null,
 occupation: Character in Meiling's dream,
 location: null,
@@ -1349,45 +1186,29 @@ musicThemes: null,
 officialGames: Touhou Hisoutensoku,
 link: https://en.touhouwiki.net/index.php?title=Giant_Catfish&action=edit
 
-
 name: Hisoutensoku,
-image: null,
+image: File:SokuOSTHisoutensoku.png,
 title: null,
-species: null,
+species: Attraction,
 abilities: null,
 age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Hisoutensoku&action=edit
-
-
-name: Taisui_Xingjun,
-image: null,
-title: null,
-species: God,
-abilities: Can cause a disaster to the world,
-age: Over 4000 years old,
-occupation: God of Calamity,
-location: null,
+occupation: Advertising,
+location: Heaven,
 musicThemes: null,
 officialGames: Touhou Hisoutensoku,
-link: https://en.touhouwiki.net/index.php?title=Taisui_Xingjun&action=edit
-
+link: https://en.touhouwiki.net/index.php?title=Hisoutensoku&action=edit
 
 name: Hatate_Himekaidou,
 image: File:Th12.5HatateHimekaidou.png,
 title: Modern-Day Spirit Photography Reporter,
 species: tengu|Crow Tengu,
-abilities: Wikipedia:Nensha|Spirit photography,
+abilities: Spirit photography,
 age: null,
 occupation: Reporter,
 location: Youkai Mountain,
 musicThemes: null,
 officialGames: Double Spoiler,
 link: https://en.touhouwiki.net/index.php?title=Hatate_Himekaidou&action=edit
-
 
 name: Kyouko_Kasodani,
 image: File:Th13Kyouko.png,
@@ -1401,19 +1222,17 @@ musicThemes: | MusicThemes = H:title|lang|ja|門前の妖怪小娘,
 officialGames: Ten Desires,
 link: https://en.touhouwiki.net/index.php?title=Kyouko_Kasodani&action=edit
 
-
 name: Yoshika_Miyako,
 image: File:Th13Yoshika.png,
 title: Loyal Undead,
-species: Jiang Shi|キョンシー|Kyonshī,
+species: Jiang Shi,
 abilities: Eating anything,
 age: Dead/Immortal,
 occupation: Guard,
 location: Hall of Dreams' Great Mausoleum‎,
-musicThemes: | MusicThemes = H:title|lang|ja|リジッドパラダイス,
+musicThemes: Rigid Paradise,
 officialGames: Ten Desires,
 link: https://en.touhouwiki.net/index.php?title=Yoshika_Miyako&action=edit
-
 
 name: Seiga_Kaku,
 image: File:Th13Seiga.png,
@@ -1422,76 +1241,70 @@ species: Hermit,
 abilities: Passing through walls,
 age: More than 1400 years old, likely older than her colleagues.,
 occupation: null,
-location: Symposium of Post-mysticism/Seiga Kaku|Seiga Kaku&lt;/ref&gt;,
-musicThemes: | MusicThemes = H:title|lang|ja|古きユアンシェン,
+location: Hall of Dreams' Great Mausoleum, Human Village,
+musicThemes: Old Yuanxian,
 officialGames: Ten Desires,
 link: https://en.touhouwiki.net/index.php?title=Seiga_Kaku&action=edit
 
-
 name: Soga_no_Tojiko,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
+image: File:Th13Tojiko.png,
+title: Ghost of the Descendant of the Gods,
+species: Ghost,
+abilities: Causing Thunder,
+age: Dead, Existed for more than 1400 Years,
 occupation: null,
-location: null,
+location: Hall of Dreams' Great Mausoleum,
 musicThemes: null,
-officialGames: null,
+officialGames: Ten Desires,
 link: https://en.touhouwiki.net/index.php?title=Soga_no_Tojiko&action=edit
-
 
 name: Mononobe_no_Futo,
 image: File:Th155Futo.png,
 title: The Shikaisen from Ancient Japan,
-species: shikaisen,
+species: Taoist practitioner claiming to be a shikaisen,
 abilities: Manipulation of wikipedia:Feng shui|feng shui,
 age: More than 1400 years old,
 occupation: null,
-location: Symposium of Post-mysticism/Mononobe no Futo|Mononobe no Futo&lt;/ref&gt;,
-musicThemes: | MusicThemes = H:title|lang|ja|大神神話伝,
+location: Hall of Dreams' Great Mausoleum, Human Village,
+musicThemes: Omiwa Legend,
 officialGames: Ten Desires,
 link: https://en.touhouwiki.net/index.php?title=Mononobe_no_Futo&action=edit
-
 
 name: Toyosatomimi_no_Miko,
 image: File:Th155Miko.png,
 title: Shoutoku Taoist,
-species: Hermit,
+species: Saint, Hermit,
 abilities: Listening to ten people's conversations at the same time.,
-age: age|574|2|7 (Born February 7, 574),
+age: 1448 (Born February 7, 574),
 occupation: null,
-location: Senkai,
-musicThemes: | MusicThemes = H:title|lang|ja|聖徳伝説　～,
+location: Hall of Dreams' Great Mausoleum, Senkai,
+musicThemes: Shoutoku Legend ~ True Administrator,
 officialGames: Ten Desires,
 link: https://en.touhouwiki.net/index.php?title=Toyosatomimi_no_Miko&action=edit
-
 
 name: Mamizou_Futatsuiwa,
 image: File:Th155Mamizou.png,
 title: The Bake-danuki with Ten Transformations,
 species: Bake-danuki,
 abilities: Disguising things and herself,
-age: About a thousand years.,
+age: About a thousand years,
 occupation: ,
-location: Symposium of Post-mysticism/Mamizou Futatsuiwa|Mamizou&lt;/ref&gt;,
-musicThemes: | MusicThemes = H:title|佐渡のニッ岩|Futatsuiwa from Sado,
+location: Myouren Temple, Forest of Magic,
+musicThemes: Futatsuiwa from Sado,
 officialGames: Ten Desires,
 link: https://en.touhouwiki.net/index.php?title=Mamizou_Futatsuiwa&action=edit
-
 
 name: Hata_no_Kokoro,
 image: File:Th155Kokoro.png,
 title: The Expressive Poker Face,
 species: Menreiki,
 abilities: Manipulating emotions,
-age: | age         =Approximately 1300 years, recently sentient,
-occupation: ,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|亡失のエモーション,
+age: Approximately 1300 years, recently sentient,
+occupation: null,
+location: null,
+musicThemes: The Lost Emotion,
 officialGames: Hopeless Masquerade,
 link: https://en.touhouwiki.net/index.php?title=Hata_no_Kokoro&action=edit
-
 
 name: Wakasagihime,
 image: File:Th14Wakasagihime.png,
@@ -1499,38 +1312,35 @@ title: Mermaid Living in Fresh Water,
 species: Mermaid,
 abilities: Grows in power when underwater,
 age: null,
-occupation: ,
+occupation: null,
 location: Misty Lake,
-musicThemes: | MusicThemes = H:title|lang|ja|秘境のマーメイド,
+musicThemes: Mermaid from the Uncharted Land,
 officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/index.php?title=Wakasagihime&action=edit
-
 
 name: Sekibanki,
 image: File:Th14Sekibanki.png,
 title: The Rokurokubi Horror,
-species: Wikipedia:Rokurokubi|Rokurokubi,
+species: Rokurokubi,
 abilities: Making her head fly,
-age: ,
+age: null,
 occupation: ,
 location: Human Village,
-musicThemes: | MusicThemes = H:title|lang|ja|柳の下のデュラハン,
+musicThemes: Dullahan Under the Willows,
 officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/index.php?title=Sekibanki&action=edit
-
 
 name: Kagerou_Imaizumi,
 image: File:Th14Kagerou.png,
 title: The Bamboo Forest's Loup-Garou,
-species: | species = Werewolf&lt;ref&gt;Kagerou is specifically referred to as a nihongo|"wolf woman"|狼女, with the term itself being derived from the Japanese localization of the movie nihongo|"Wolfman"|狼男.&lt;/ref&gt;,
+species: Werewolf,
 abilities: Can transform into a wolf on the night of the full moon,
 age: null,
 occupation: ,
 location: Bamboo Forest of the Lost,
-musicThemes: | MusicThemes = H:title|lang|ja|孤独なウェアウルフ,
+musicThemes: Lonesome Werewolf,
 officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/index.php?title=Kagerou_Imaizumi&action=edit
-
 
 name: Benben_Tsukumo,
 image: File:Th14Benben.png,
@@ -1538,12 +1348,11 @@ title: Tsukumogami of an Aging Biwa,
 species: Tsukumogami (biwabokuboku),
 abilities: Making sounds and performing on her own,
 age: null,
-occupation: ,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|幻想浄瑠璃 ,
+occupation: null,
+location: null,
+musicThemes: Illusionary Shamisen Recital,
 officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/index.php?title=Benben_Tsukumo&action=edit
-
 
 name: Yatsuhashi_Tsukumo,
 image: File:Th14Yatsuhashi.png,
@@ -1551,12 +1360,11 @@ title: Tsukumogami of an Aging Koto,
 species: Tsukumogami (kotofurunushi),
 abilities: Making sounds and performing on her own,
 age: null,
-occupation: ,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|幻想浄瑠璃,
+occupation: null,
+location: null,
+musicThemes: Illusionary Shamisen Recital,
 officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/index.php?title=Yatsuhashi_Tsukumo&action=edit
-
 
 name: Seija_Kijin,
 image: File:Th143Seija.png,
@@ -1564,12 +1372,11 @@ title: Counterattacking Amanojaku,
 species: Amanojaku,
 abilities: Turn over anything,
 age: null,
-occupation: ,
+occupation: null,
 location: Shining Needle Castle,
-musicThemes: | MusicThemes = H:title|lang|ja|リバースイデオロギー,
+musicThemes: Reverse Ideology
 officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/index.php?title=Seija_Kijin&action=edit
-
 
 name: Shinmyoumaru_Sukuna,
 image: File:Th155Shinmyoumaru.png,
@@ -1579,10 +1386,9 @@ abilities: Using the Miracle Mallet,
 age: null,
 occupation: Princess,
 location: Shining Needle Castle,
-musicThemes: | MusicThemes = H:title|lang|ja|耀く針の小人族　～,
+musicThemes: Inchlings of the Shining Needle ~ Little Princess
 officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/index.php?title=Shinmyoumaru_Sukuna&action=edit
-
 
 name: Raiko_Horikawa,
 image: File:Th14Raiko.png,
@@ -1590,51 +1396,47 @@ title: Phantasmal Percussionist,
 species: Tsukumogami,
 abilities: Making anything follow a rhythm,
 age: null,
-occupation: ,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|始原のビート　～,
+occupation: null,
+location: null,
+musicThemes: Primordial Beat ~ Pristine Beat,
 officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/index.php?title=Raiko_Horikawa&action=edit
-
 
 name: Sumireko_Usami,
 image: File:Th165Sumireko.png,
 title: Mystic and Troublesome Female Student,
 species: Human/Doppelganger,
 abilities: Assorted psychic powers (ESP),
-age: | age         =Around 15-16 during Urban Legend in Limbo|Urban Legend Incident &lt;ref&gt; In her profile in ''Urban Legend in Limbo'', it is said she just started preparatory school, which situates her at about 15-16 years old, knowing high school is started at about that age in Japan &lt;/ref&gt; ,
-occupation: High school student at Higashifukami High School, part-timer at Kourindou&lt;ref name="CoLA36"&gt; Curiosities of Lotus Asia - Curiosities of Lotus Asia/Chapter 36|Chapter 36&lt;/ref&gt;,
-location: wikipedia:Kanto_region|Kanto Region),
-musicThemes: | MusicThemes = H:title|lang|ja|ラストオカルティズム　～　現し世の秘術師,
+age: Around 15-16 during Urban Legend in Limbo,
+occupation: High school student at Higashifukami High School, part-timer at Kourindou,
+location: Outside World Kanto Region,
+musicThemes: Last Occultism ~ Esotericist of the Present World,
 officialGames: Urban Legend in Limbo,
 link: https://en.touhouwiki.net/index.php?title=Sumireko_Usami&action=edit
-
 
 name: Seiran,
 image: File:Th15Seiran.png,
 title: The Pale Blue Eagle Ravi,
 species: Moon rabbit,
 abilities: Firing bullets from other dimensions,
-age: Unknown, at least age|1969|01|01 years old,
-occupation: Lunarian military infiltrator (formerly)&lt;br&gt;,
-location: | location = Gensokyo,
-musicThemes: | MusicThemes = H:title|lang|ja|兎は舞い降りた,
+age: Unknown, at least 53 years old,
+occupation: Lunarian military infiltrator (formerly), Dango Salesgirl (currently),
+location: Gensokyo,
+musicThemes: The Rabbit Has Landed,
 officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/index.php?title=Seiran&action=edit
-
 
 name: Ringo,
 image: File:Th15Ringo.png,
 title: The Orange Eagle Ravi,
 species: Moon rabbit,
 abilities: Growing in strength by eating dango,
-age: Unknown, at least age|1969|01|01 years old,
+age: Unknown, at least 53 years old,
 occupation: Deserted Lunarian military informant, now a Dango Saleswoman,
-location: | location = Gensokyo,
-musicThemes: | MusicThemes = H:title|lang|ja|九月のパンプキン,
+location: Gensokyo,
+musicThemes: Pumpkin of September,
 officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/index.php?title=Ringo&action=edit
-
 
 name: Doremy_Sweet,
 image: File:Th155Doremy.png,
@@ -1644,101 +1446,93 @@ abilities: Eating and creating dreams,
 age: null,
 occupation: Dream World manager,
 location: Dream World,
-musicThemes: | MusicThemes = H:title|lang|ja|永遠の春夢,
+musicThemes: Eternal Spring Dream,
 officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/index.php?title=Doremy_Sweet&action=edit
-
 
 name: Sagume_Kishin,
 image: File:TH15Kishin.png,
 title: Goddess Who Invites Unfortunate Slips of the Tongue,
-species: Divine Spirit),
+species: Lunarian Divine Spirit,
 abilities: Reversing a situation with her words,
-age: | age =,
-occupation: | occupation =,
+age: null,
+occupation: null,
 location: Lunar Capital,
-musicThemes: | MusicThemes = H:title|lang|ja|逆転するホイールオブフォーチュン,
+musicThemes: Reversed Wheel of Fortune,
 officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/index.php?title=Sagume_Kishin&action=edit
 
-
 name: Clownpiece,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
+image: File:TH15Clownpiece.png,
+title: Fairy of Hell,
+species: Fairy (Lampad),
+abilities: Driving people to madness,
+age: unknown immortal,
 occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
+location: Sea of Tranquility (During Legacy of Lunatic Kingdom events), Hell (Formerly), Beneath the Hakurei Shrine,
+musicThemes: Pierrot of the Star-Spangled Banner,
+officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/index.php?title=Clownpiece&action=edit
-
 
 name: Junko,
 image: File:Th15Junko.png,
-title: ,
+title: null,
 species: Divine spirit,
 abilities: Purify anything,
-age: ,
-occupation: ,
-location: | location = ,
-musicThemes: | MusicThemes =H:title|lang|ja|ピュアヒューリーズ　～　心の在処,
+age: null,
+occupation: null,
+location: null,
+musicThemes: Pure Furies ~ Whereabouts of the Heart,
 officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/index.php?title=Junko&action=edit
-
 
 name: Hecatia_Lapislazuli,
 image: File:TH15Hecatia.png,
 title: Goddess of Hell,
-species: God|Goddess,
+species: Goddess,
 abilities: To have three bodies,
-age: | age =,
-occupation: | occupation =,
+age: null,
+occupation: null,
 location: Hell,
-musicThemes: | MusicThemes = H:title|lang|ja|パンデモニックプラネット,
+musicThemes: Pandemonic Planet,
 officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/index.php?title=Hecatia_Lapislazuli&action=edit
-
 
 name: Joon_Yorigami,
 image: File:GIJoon.png,
 title: The Most-Despicable and Disastrous Younger Twin Sister,
-species: God,
+species: Pestilence God,
 abilities: Causing consumption of financial assets,
-age: ,
+age: null,
 occupation: Con artist, spending money,
 location: Myouren Temple,
-musicThemes: | MusicThemes = H:title|lang|ja|今宵は飄逸なエゴイスト,
+musicThemes: Tonight Stars an Easygoing Egoist (Live ver.) ~ Egoistic Flowers,
 officialGames: Antinomy of Common Flowers,
 link: https://en.touhouwiki.net/index.php?title=Joon_Yorigami&action=edit
-
 
 name: Shion_Yorigami,
 image: File:GIShion.png,
 title: The Most-Despicable and Disastrous Elder Twin Sister,
-species: God,
+species: Poverty God,
 abilities: Capable of making people unlucky, including herself,
-age: ,
-occupation: Con artist, personification of poverty.,
+age: null,
+occupation: Con artist, personification of poverty,
 location: Hakurei Shrine,
-musicThemes: | MusicThemes = H:title|lang|ja|今宵は飄逸なエゴイスト,
+musicThemes: Tonight Stars an Easygoing Egoist (Live ver.) ~ Egoistic Flowers,
 officialGames: Antinomy of Common Flowers,
 link: https://en.touhouwiki.net/index.php?title=Shion_Yorigami&action=edit
-
 
 name: Eternity_Larva,
 image: File:Th16Eternity.png,
 title: The Butterfly Fairy who Approaches God,
-species: God&lt;ref&gt;https://en.touhouwiki.net/wiki/Hidden_Star_in_Four_Seasons/Story/Cirno%27s_Extra#:~:text=It%27s%20possible%20that%20she%20wasn%27t%20a%20butterfly%20fairy%20at%20all%2C&lt;/ref&gt;(?),
+species: Fairy, God,
 abilities: Scattering scales,
 age: null,
-occupation: | occupation =,
+occupation: null,
 location: Garden of the Sun,
-musicThemes: | MusicThemes = H:title|lang|ja|真夏の妖精の夢,
+musicThemes: A Midsummer Fairy's Dream,
 officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/index.php?title=Eternity_Larva&action=edit
-
 
 name: Nemuno_Sakata,
 image: File:Th16Nemuno.png,
@@ -1746,12 +1540,11 @@ title: The Yamanba who Surpasses This Floating World's Barriers,
 species: Yamanba,
 abilities: Creating sanctuaries,
 age: null,
-occupation: | occupation =,
+occupation: null,
 location: Youkai Mountain,
-musicThemes: | MusicThemes = H:title|lang|ja|山奥のエンカウンター,
+musicThemes: A Deep-Mountain Encounter,
 officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/index.php?title=Nemuno_Sakata&action=edit
-
 
 name: Aunn_Komano,
 image: File:Th16Aunn.png,
@@ -1759,12 +1552,11 @@ title: The Guardian Beast Devoted to Shintoism and Buddhism,
 species: Komainu,
 abilities: Locating Shintoism and Buddhism,
 age: null,
-occupation: | occupation =,
+occupation: null,
 location: Hakurei Shrine,
-musicThemes: | MusicThemes = H:title|lang|ja|一対の神獣,
+musicThemes: A Pair of Divine Beasts,
 officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/index.php?title=Aunn_Komano&action=edit
-
 
 name: Narumi_Yatadera,
 image: File:Th16Narumi.png,
@@ -1772,51 +1564,47 @@ title: The Magical Jizo who Manifested in the Forest,
 species: Magician (animated Jizo statue),
 abilities: Capable of using magic (control of life),
 age: null,
-occupation: | occupation =,
+occupation: null,
 location: Forest of Magic,
-musicThemes: | MusicThemes = H:title|lang|ja|魔法の笠地蔵,
+musicThemes: The Magic Straw-Hat Jizo,
 officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/index.php?title=Narumi_Yatadera&action=edit
-
 
 name: Satono_Nishida,
 image: File:Th16Satano.png,
 title: The All-Too-Dangerous Backup Dancers,
-species: Human|Human(?),
+species: Human,
 abilities: Drawing out people's mental energy by dancing behind them,
 age: null,
-occupation: | occupation =Servant of Okina Matara,
-location: | location =,
-musicThemes: | MusicThemes = H:title|lang|ja|クレイジーバックダンサーズ,
+occupation: Servant of Okina Matara,
+location: null,
+musicThemes: Crazy Backup Dancers,
 officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/index.php?title=Satono_Nishida&action=edit
-
 
 name: Mai_Teireida,
 image: File:Th16Mai.png,
 title: The All-Too-Dangerous Backup Dancers,
-species: Human|Human(?) ,
+species: Human ,
 abilities: Drawing out people's vitality by dancing behind them,
 age: null,
 occupation: Servant of Okina Matara,
-location: | location =,
-musicThemes: | MusicThemes = H:title|lang|ja|クレイジーバックダンサーズ,
+location: null,
+musicThemes: Crazy Backup Dancers,
 officialGames: Satono,
 link: https://en.touhouwiki.net/index.php?title=Mai_Teireida&action=edit
-
 
 name: Okina_Matara,
 image: File:Th175Okina.png,
 title: The Ultimate, Absolute Secret God,
-species: God,
-abilities: Creating doors on the back of anything&lt;br /&gt;Manipulation of life energy&lt;br /&gt;Manipulation of mental energy,
+species: secret God,
+abilities: Creating doors on the back of anything, Manipulation of life energy, Manipulation of mental energy,
 age: Older than Gensokyo itself,
 occupation: Sage; maintains Gensokyo's balance,
 location: Land of the Back Door,
-musicThemes: | MusicThemes = H:title|lang|ja|秘匿されたフォーシーズンズ,
+musicThemes: The Concealed Four Seasons, Hidden star in all seasons,
 officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/index.php?title=Okina_Matara&action=edit
-
 
 name: Eika_Ebisu,
 image: File:Th17Eika.png,
@@ -1824,142 +1612,131 @@ title: Stillborn Idol of the Riverbed,
 species: God,
 abilities: Stacking stones well,
 age: null,
-occupation: | occupation =,
-location: Sanzu River|Sai no Kawara,
-musicThemes: | MusicThemes = H:title|lang|ja|ジェリーストーン,
+occupation: null
+location: Sai no Kawara,
+musicThemes: Jelly Stone,
 officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/index.php?title=Eika_Ebisu&action=edit
-
 
 name: Urumi_Ushizaki,
 image: File:Th17Urumi.png,
 title: Parental Guardian of Ancient Fish,
-species: | species = Ushi-oni,
+species: Ushi-oni,
 abilities: Changing the weight of everyday objects,
 age: null,
-occupation: | occupation =,
-location: Wily Beast and Weakest Creature'' - Urumi's Profile &lt;/ref&gt;,
-musicThemes: | MusicThemes = H:title|lang|ja|石の赤子と水中の牛,
+occupation: null,
+location: Sanzu River,
+musicThemes: The Stone Baby and the Submerged Bovine,
 officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/index.php?title=Urumi_Ushizaki&action=edit
-
 
 name: Kutaka_Niwatari,
 image: File:Th175Kutaka.png,
 title: Clerical God of Hell's Checkpoint,
-species: Yaoyorozu no Kami),
+species: God of Chickens,Yaoyorozu no Kami,
 abilities: Healing throat illnesses,
 age: null,
 occupation: Gatekeeper of Hell,
 location: Higan,
-musicThemes: | MusicThemes = H:title|lang|ja|セラフィックチキン,
+musicThemes: Seraphic Chicken,
 officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/index.php?title=Kutaka_Niwatari&action=edit
-
 
 name: Yachie_Kicchou,
 image: File:Th17Yachie.png,
 title: Matriarch of the Kiketsu Family,
-species: | species = Jidiao,
+species: Jidiao,
 abilities: Making people lose the will to fight back,
 age: null,
 occupation: Matriarch of the Kiketsu Family,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|トータスドラゴン 〜幸運と不運,
+location: null,
+musicThemes: Tortoise Dragon ~ Fortune and Misfortune,
 officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/index.php?title=Yachie_Kicchou&action=edit
 
-
 name: Mayumi_Joutouguu,
 image: File:Th17Mayumi.png,
-title: Haniwa Lance Corporal ,
-species: Haniwa (species)|Haniwa,
-abilities: Directly turning her loyalty into strength ,
+title: Haniwa Lance Corporal,
+species: Haniwa,
+abilities: Directly turning her loyalty into strength,
 age: null,
 occupation: Head of the Haniwa Army Corps,
-location: | location = Primate Spirit Garden,
-musicThemes: | MusicThemes = H:title|lang|ja|セラミックスの杖刀人,
+location: Primate Spirit Garden,
+musicThemes: Joutoujin of Ceramics,
 officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/index.php?title=Mayumi_Joutouguu&action=edit
 
-
 name: Keiki_Haniyasushin,
 image: File:Th17Keiki.png,
-title: The Sculptor God Crafted by Utter Isolation ,
-species: Divine Spirit),
-abilities: Ability to create idols ,
+title: The Sculptor God Crafted by Utter Isolation,
+species: God (Divine Spirit),
+abilities: Ability to create idols,
 age: null,
 occupation: null,
-location: | location = Primate Spirit Garden,
-musicThemes: | MusicThemes = H:title|lang|ja|偶像に世界を委ねて 〜Idoratrize world,
+location: Primate Spirit Garden,
+musicThemes: Entrust the World to Idols ~ Idolatrize World,
 officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/index.php?title=Keiki_Haniyasushin&action=edit
-
 
 name: Saki_Kurokoma,
 image: File:Th17Saki.png,
 title: Matriarch of the Keiga Family,
-species: | species = Kurokoma,
-abilities: Having unmatched leg strength ,
+species: Kurokoma,
+abilities: Having unmatched leg strength,
 age: null,
 occupation: Matriarch of the Keiga Family,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|聖徳太子のペガサス　〜,
+location: null,
+musicThemes: Prince Shoutoku's Pegasus ~ Dark Pegasus,
 officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/index.php?title=Saki_Kurokoma&action=edit
 
-
 name: Yuuma_Toutetsu,
-image: ,
+image: File:TH175Yuuma.png,
 title: Undefeated Matriarch of the Gouyoku Alliance,
 species: Taotie,
 abilities: Absorbing anything,
 age: null,
 occupation: Chairwoman of the Gouyoku Alliance,
 location: null,
-musicThemes: | MusicThemes = H:title|lang|ja|強欲な獣のメメント,
+musicThemes: Memento of All Organisms ~ Memory of Fossil Energy, Memento of the Avaricious Beast,
 officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/index.php?title=Yuuma_Toutetsu&action=edit
-
 
 name: Mike_Goutokuji,
 image: File:Th18Mike.png,
 title: Lucky Charm for Prosperous Commerce,
-species: | species = Maneki-neko,
+species: Maneki-neko,
 abilities: Beckoning in money or customers,
 age: null,
 occupation: Happily unemployed,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|大吉キトゥン,
+location: null,
+musicThemes: Kitten of Great Fortune,
 officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/index.php?title=Mike_Goutokuji&action=edit
-
 
 name: Takane_Yamashiro,
 image: File:Th18Takane.png,
 title: Business Youkai of the Mountain's Recess,
-species: Kappa|Yamawaro,
-abilities: Manipulating forest ''qi'',
+species: Yamawaro,
+abilities: Manipulating forest qi,
 age: null,
-occupation: | occupation =,
+occupation: null,
 location: Youkai Mountain,
-musicThemes: | MusicThemes = H:title|lang|ja|バンデットリィテクノロジー,
+musicThemes: Banditry Technology,
 officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/index.php?title=Takane_Yamashiro&action=edit
-
 
 name: Sannyo_Komakusa,
 image: File:Th18Dayuu.png,
 title: Highland-Dwelling Yamajorou,
-species: Yamanba#Yamajorou|Yamajorou,
+species: Yamajorou,
 abilities: Controlling people's minds with tobacco smoke,
 age: null,
-occupation: wikipedia:Bookmaker|Bookmaker,
+occupation: Bookmaker,
 location: Komakusa Gambling Den ,
-musicThemes: | MusicThemes = H:title|lang|ja|スモーキングドラゴン,
+musicThemes: Smoking Dragon,
 officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/index.php?title=Sannyo_Komakusa&action=edit
-
 
 name: Misumaru_Tamatsukuri,
 image: File:Th18Misumaru.png,
@@ -1968,11 +1745,10 @@ species: God,
 abilities: Making magatama,
 age: null,
 occupation: Magatama crafter,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|神代鉱石,
+location: null,
+musicThemes: Ore from the Age of the Gods,
 officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/index.php?title=Misumaru_Tamatsukuri&action=edit
-
 
 name: Tsukasa_Kudamaki,
 image: File:Th18Tsukasa.png,
@@ -1980,25 +1756,23 @@ title: Wicked White Fox Who Whispers in Ears,
 species: Kuda-gitsune,
 abilities: Capable of slipping into places where one's soul is weak,
 age: null,
-occupation: ,
-location: | location = ,
-musicThemes: | MusicThemes = ,
+occupation: null,
+location: null,
+musicThemes: null,
 officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/index.php?title=Tsukasa_Kudamaki&action=edit
-
 
 name: Megumu_Iizunamaru,
 image: File:Th18Megumu2.png,
 title: Chief of the Crow Tengu,
-species: Tengu|Great Tengu,
+species: Great Tengu,
 abilities: Capable of manipulating the starry sky,
 age: null,
 occupation: Chief of the Crow Tengu,
 location: Youkai Mountain,
-musicThemes: | MusicThemes = H:title|lang|ja|星降る天魔の山,
+musicThemes: Starry Mountain of Tenma,
 officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/index.php?title=Megumu_Iizunamaru&action=edit
-
 
 name: Chimata_Tenkyuu,
 image: File:Th18Chimata.png,
@@ -2006,38 +1780,35 @@ title: The God of the Unowned,
 species: God,
 abilities: Capable of letting one relinquish ownership,
 age: null,
-occupation: ,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|あの賑やかな市場は今どこに　〜,
+occupation: null,
+location: null,
+musicThemes: Where Is That Bustling Marketplace Now ~ Immemorial Marketeers,
 officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/index.php?title=Chimata_Tenkyuu&action=edit
-
 
 name: Momoyo_Himemushi,
 image: File:Th18Himemushi.png,
 title: Onyx Dragon-Eater,
-species: | species = Oomukade,
+species: Oomukade,
 abilities: Capable of eating dragons,
 age: null,
-occupation: ,
-location: | location = ,
-musicThemes: | MusicThemes = H:title|lang|ja|龍王殺しのプリンセス,
+occupation: null,
+location: null,
+musicThemes: The Princess Who Slays Dragon Kings,
 officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/index.php?title=Momoyo_Himemushi&action=edit
-
 
 name: Rinnosuke_Morichika,
 image: File:CoLARinnosukefull.jpg,
 title: The Unmoving Used Goods Seller,
 species: Half-youkai,
 abilities: Knowing the name and utility of tools,
-age: Unknown, at least 220 years &lt;ref&gt;Curiosities of Lotus Asia/Chapter 11, he mentions remembering the creation of the barrier, around the start of the Meiji era.&lt;/ref&gt;,
+age: Unknown, at least 220 years,
 occupation: Owner of Kourindou, an antique shop,
-location: Forest of Magic,
-musicThemes: | MusicThemes = H:title|lang|ja|キュアリアス上海古牌,
+location: Kourindou Forest of Magic,
+musicThemes: Curious Old Shanghai Tile,
 officialGames: Hopeless Masquerade,
 link: https://en.touhouwiki.net/index.php?title=Rinnosuke_Morichika&action=edit
-
 
 name: Tokiko,
 image: File:Tokiko CoLA ch1.jpg,
@@ -2051,45 +1822,53 @@ musicThemes: null,
 officialGames: null,
 link: https://en.touhouwiki.net/index.php?title=Tokiko&action=edit
 
-
 name: Star_Sapphire,
 image: File:Star-sapphire-FW.png,
 title: Showering Star Light,
 species: Fairy,
 abilities: Detection of moving things,
-age: Unknown, immortal ,
+age: Unknown, immortal,
 occupation: Member of the Three Fairies of Light,
-location: | location = Near the Hakurei shrine (formerly Forest of Magic),
-musicThemes: | MusicThemes = H:title|lang|ja|妖精燦々として,
+location: Near the Hakurei shrine (formerly Forest of Magic),
+musicThemes: Like the Brilliance of Fairies,
 officialGames: Fairy Wars,
 link: https://en.touhouwiki.net/index.php?title=Star_Sapphire&action=edit
 
-
 name: Sunny_Milk,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
-occupation: null,
-location: null,
-musicThemes: null,
-officialGames: null,
+image: File:Sunny-milk-FW.png,
+title: Glimmering Sun Light,
+species: Fairy,
+abilities: Refraction of light,
+age: Unknown, immortal,
+occupation: Leader of the Three Fairies of Light,
+location: In a tree near the Hakurei Shrine ,
+musicThemes: Sunny Rutile Flection,
+officialGames: Fairy Wars,
 link: https://en.touhouwiki.net/index.php?title=Sunny_Milk&action=edit
 
+name: Luna_Child,
+image: File:Th128LunaChild.png,
+title: Silent Moon Light,
+species: Fairy,
+abilities: Muting the surrounding sound,
+age: Unknown, immortal,
+occupation: Member of the Three Fairies of Light,
+location: Near the Hakurei Shrine,
+musicThemes: Sleepless Due to the Night,
+officialGames: Fairy Wars,
+link: https://en.touhouwiki.net/index.php?title=Luna_Child&action=edit
 
 name: Minor_Characters#Tsuchinoko,
-image: null,
+image: https://en.touhouwiki.net/images/9/98/SaBNDTsuchinoko.png,
 title: null,
-species: null,
-abilities: null,
+species: Tsuchinoko,
+abilities: Can control plants,
 age: null,
-occupation: null,
-location: null,
+occupation: eating and sleeping,
+location: Marisa's House,
 musicThemes: null,
 officialGames: null,
 link: https://en.touhouwiki.net/index.php?title=Minor_Characters#Tsuchinoko&action=edit
-
 
 name: Sake_Bug,
 image: File:SaBNDSakeBug.png,
@@ -2103,11 +1882,10 @@ musicThemes: null,
 officialGames: null,
 link: https://en.touhouwiki.net/index.php?title=Sake_Bug&action=edit
 
-
 name: Reisen,
 image: File:SSiBreisen.jpg,
 title: null,
-species: Gensokyo)'',
+species: moon rabbit,
 abilities: null,
 age: null,
 occupation: Lunar Defense Corps Trainee,
@@ -2116,45 +1894,41 @@ musicThemes: null,
 officialGames: null,
 link: https://en.touhouwiki.net/index.php?title=Reisen&action=edit
 
-
 name: Watatsuki_no_Toyohime,
 image: File:CiLRTWatatsukinoToyohime.jpg,
 title: The Moon Princess Connecting Sea and Mountain,
-species: Gensokyo)'',
+species: Lunarian,
 abilities: Good fortune; can manipulate the boundaries between the Earth and Moon, and between the scientific and fantastic versions of the Moon; can link the sea and mountains. Carries a fan capable of inflicting mass destruction.,
 age: At least 1500,
 occupation: Leader of the Lunar Defense Corps,
 location: Moon capital,
-musicThemes: Silent Sinner in Blue CD),
+musicThemes: Watatsuki's Spell Card ~ Lunatic Blue,
 officialGames: null,
 link: https://en.touhouwiki.net/index.php?title=Watatsuki_no_Toyohime&action=edit
-
 
 name: Watatsuki_no_Yorihime,
 image: File:CiLRYWatatsukinoYorihime.jpg,
 title: The Moon Princess Possessed by Divine Spirits,
-species: Gensokyo)'',
+species: Lunarian,
 abilities: Easily absorbs knowledge, superb swordsmanship skills, can summon the power of the gods.,
 age: at least 1500,
 occupation: Leader of the Lunar Defense Corps,
 location: Moon capital ,
-musicThemes: Silent Sinner in Blue CD),
+musicThemes: Watatsuki's Spell Card ~ Lunatic Blue,
 officialGames: null,
 link: https://en.touhouwiki.net/index.php?title=Watatsuki_no_Yorihime&action=edit
 
-
-name: Chang%27e,
+name: Chang'e,
 image: File:ChangeSSiB.jpg,
 title: null,
-species: God|Goddess),
-abilities: Immortal|Immortality,
-age: | age =,
-occupation: | occupation =Prisoner, previously princess/noblewoman,
+species: Lunarian God|Goddess),
+abilities: Immortality,
+age: Immortal,
+occupation: Prisoner, previously princess/noblewoman,
 location: Lunar Capital,
-musicThemes: | MusicThemes = ,
-officialGames: Legacy of Lunatic Kingdom,
+musicThemes: null,
+officialGames: Legacy of Lunatic Kingdom (Mentioned),
 link: https://en.touhouwiki.net/index.php?title=Chang%27e&action=edit
-
 
 name: Lord_Tsukuyomi,
 image: null,
@@ -2168,59 +1942,6 @@ musicThemes: null,
 officialGames: null,
 link: https://en.touhouwiki.net/index.php?title=Lord_Tsukuyomi&action=edit
 
-
-name: Mizue_no_Uranoshimako,
-image: null,
-title: null,
-species: Human,
-abilities: null,
-age: Over 300, deceased,
-occupation: Fisherman,
-location: null,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Mizue_no_Uranoshimako&action=edit
-
-
-name: Iwakasa,
-image: File:Iwasaka.png,
-title: null,
-species: Human,
-abilities: null,
-age: Unknown, deceased,
-occupation: Subordinate of the Emperor,
-location: null,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Iwakasa&action=edit
-
-
-name: Konohana-Sakuyahime,
-image: File:Sakuyahime_wahh_ch19.png,
-title: null,
-species: God,
-abilities: null,
-age: Thousands,
-occupation: null,
-location: Wikipedia:Mount Fuji|Mount Fuji,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Konohana-Sakuyahime&action=edit
-
-
-name: Iwanagahime,
-image: null,
-title: null,
-species: God,
-abilities: null,
-age: Thousands,
-occupation: null,
-location: Youkai Mountain,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Iwanagahime&action=edit
-
-
 name: Kasen_Ibaraki,
 image: File:Th155Kasen.png,
 title: The One-Armed, Horned Hermit,
@@ -2228,50 +1949,34 @@ species: Hermit,
 abilities: Guiding animals,
 age: Over 1,000 years,
 occupation: Sage,
-location: Hakurei Shrine,
-musicThemes: | MusicThemes = H:title|lang|ja|華狭間のバトルフィールド,
+location: Youkai Mountain (Senkai), Hakurei Shrine,
+musicThemes: Battlefield of the Flower Threshold,
 officialGames: Urban Legend in Limbo,
 link: https://en.touhouwiki.net/index.php?title=Kasen_Ibaraki&action=edit
 
-
-name: Shirou_Sendai,
-image: File:WnHHSendaiShirouPortrait.png,
-title: null,
-species: Human),
-abilities: Good fortune,
-age: 150-151 (Age at death: 41-42; Born in 1860, Died in 1902),
-occupation: God of good fortune,
-location: Human Village,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Shirou_Sendai&action=edit
-
-
-name: Unshou,
-image: File:Unshou.jpg,
-title: ,
-species: Human,
-abilities: ,
-age: Unknown, thought old age,
-occupation: Fisherman, Doctor,
-location: Youkai Mountain,
-musicThemes: null,
-officialGames: null,
-link: https://en.touhouwiki.net/index.php?title=Unshou&action=edit
-
-
 name: Kosuzu_Motoori,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
+image: File:FS_Kosuzu2.png,
+title: Bibliophile with a Deciphering Eye,
+species: Human,
+abilities: The ability to decipher books by only touching them,
+age: Unknown younger than Hieda no Akyuu,
 occupation: null,
-location: null,
+location: Suzunaan in Human Village,
 musicThemes: null,
-officialGames: null,
+officialGames: Hopeless Masquerade (Background Character),
 link: https://en.touhouwiki.net/index.php?title=Kosuzu_Motoori&action=edit
 
+name: Hieda_no_Akyuu,
+image: File:Akyuu_FS4.png,
+title: Memory of Gensokyo,
+species: Human
+abilities: Not forgetting things seen once
+age: 12 (first appearance), 27 (currently), 1200+ (including past lives),
+occupation: Chronicler,
+location: Human Village; Hieda house,
+musicThemes: Child of Are,
+officialGames: null,
+link: https://en.touhouwiki.net/index.php?title=Hieda_no_Akyuu&action=edit
 
 name: Mizuchi_Miyadeguchi,
 image: File:Mizuchi_FDS.png,
@@ -2279,23 +1984,20 @@ title: Jailbreak King,
 species: Vengeful spirit,
 abilities: Capable of possessing people.,
 age: null,
-occupation: ,
-location: | location = ,
-musicThemes: null,
-officialGames: | appOfficialgames =,
-link: https://en.touhouwiki.net/index.php?title=Mizuchi_Miyadeguchi&action=edit
-
-
-name: Miyoi_Okunoda,
-image: null,
-title: null,
-species: null,
-abilities: null,
-age: null,
 occupation: null,
 location: null,
 musicThemes: null,
 officialGames: null,
-link: null
+link: https://en.touhouwiki.net/index.php?title=Mizuchi_Miyadeguchi&action=edit
 
-
+name: Miyoi_Okunoda,
+image: File:TLE - Miyoi Okunoda.jpg,
+title: The Poster Girl of Geidontei, the Fantasy Pub,
+species: Zashiki-warashi,
+abilities: Manipulation of memories,
+age: null,
+occupation: Poster Girl,
+location: Geidontei, Human Village,
+musicThemes: null,
+officialGames: null],
+link: https://en.touhouwiki.net/index.php?title=Miyoi_Okunoda&action=edit
