@@ -32,7 +32,7 @@ public class CharacterObjectCreatorFromTextFile {
     public ArrayList<CharacterObjects> readFromfile(){
         var characters = new ArrayList<CharacterObjects>();
         try{
-            File file = new File("src/main/resources/allCharacters.txt");
+            File file = new File("src/main/resources/allCharactersNeo.txt");
             Scanner scan = new Scanner(file);
             String line = "";
             int count = 0;
@@ -142,12 +142,12 @@ public class CharacterObjectCreatorFromTextFile {
 
         var testList = test.readFromfile();
 
-        test.linkFixer(testList);
-        test.imageFixer(testList);
+        //test.linkFixer(testList);
+        //test.imageFixer(testList);
 
-        //testList.stream().forEach(character -> System.out.println(character));
+        testList.stream().forEach(character -> System.out.println(character));
 
-        testList.stream().forEach(character -> test.writeToFile(character.toString()));
+        //testList.stream().forEach(character -> test.writeToFile(character.toString()));
 
         //System.out.println(testList.get(testList.size()-1));
 
