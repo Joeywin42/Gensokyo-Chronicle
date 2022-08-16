@@ -18,6 +18,25 @@ public class CharacterObjects {
         this.name = name;
 
     }
+
+    public CharacterObjects(String name, String image, String title, String species, String abilities, String age,
+                            String occupation, String location, String musicThemes, String officialGames, String link) {
+        this.name = name;
+        this.image = image;
+        this.title = title;
+        this.species = species;
+        this.abilities = abilities;
+        this.age = age;
+        this.occupation = occupation;
+        this.location = location;
+        this.musicThemes = musicThemes;
+        this.officialGames = officialGames;
+        this.link = link;
+
+        System.out.println("created ---------------");
+        //System.out.println(this);
+    }
+
     @Override
     public String toString(){
         return "name: " + getName() + ",\n" +
@@ -30,7 +49,7 @@ public class CharacterObjects {
                 "location: " + getLocation() + ",\n" +
                 "musicThemes: " + getMusicThemes() + ",\n" +
                 "officialGames: " + getOfficialGames() + ",\n" +
-                "link: " + getLink() + "\n\n";
+                "link: " + getLink() + "\n";
     }
 
     //region Getters and Setters for all String Values

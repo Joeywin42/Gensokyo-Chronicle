@@ -19,23 +19,23 @@ public class CharacterObjectCreator {
 
         static ArrayList<CharacterObjects> allCharacters = new ArrayList<CharacterObjects>();
 
-        public ArrayList<String> fillNames(){
-            ArrayList<String> names = new ArrayList<String>();
-            try {
-                File file = new File("src/main/resources/characterNames.txt");
-                Scanner scanner = new Scanner(file);
-                String line = "";
-                while(scanner.hasNextLine()){
-                    line = scanner.nextLine();
-                    names.add(line);
-                }
-                scanner.close();
-
-            }catch (Exception e){
-                e.printStackTrace();
+    public ArrayList<String> fillNames(){
+        ArrayList<String> names = new ArrayList<String>();
+        try {
+            File file = new File("src/main/resources/characterNames.txt");
+            Scanner scanner = new Scanner(file);
+            String line = "";
+            while(scanner.hasNextLine()){
+                line = scanner.nextLine();
+                names.add(line);
             }
-            return names;
+            scanner.close();
+
+        }catch (Exception e){
+            e.printStackTrace();
         }
+        return names;
+    }
 
 
 
@@ -179,7 +179,7 @@ public class CharacterObjectCreator {
         System.out.println(names);
 
 
-        for (String name: names) {
+/*        for (String name: names) {
             characters.add(new CharacterObjects(name));
         }
         for (int i = 0; i < names.size()-1; i++){
@@ -189,6 +189,6 @@ public class CharacterObjectCreator {
         }
         for(CharacterObjects object: characters) {
             test.writeToFile(object.toString());
-        }
+        }*/
     }
 }
