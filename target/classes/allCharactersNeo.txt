@@ -1,5 +1,5 @@
 name: Reimu_Hakurei,
-image: https://en.touhouwiki.net/wiki/File:Th18Reimu.png,
+image: https://en.touhouwiki.net/images/c/c8/Th18Reimu.png,
 title: Shrine Maiden of Paradise,
 species: Human,
 abilities: Ability to Float, Aura Manipulation, Powers as the Shrine Maiden of Hakurei Shrine|Hakurei,
@@ -11,7 +11,7 @@ officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/wiki/Reimu_Hakurei
 
 name: Marisa_Kirisame,
-image: https://en.touhouwiki.net/wiki/File:Th18Marisa.png,
+image: https://en.touhouwiki.net/images/c/cd/Th18Marisa.png,
 title: Ordinary Magician,
 species: Human,
 abilities: Using Magic (Specialized in light and heat magic),
@@ -23,7 +23,7 @@ officialGames: Story of Eastern Wonderland,
 link: https://en.touhouwiki.net/wiki/Marisa_Kirisame
 
 name: SinGyoku,
-image: https://en.touhouwiki.net/wiki/File:Th01Shingyoku.png,
+image: https://en.touhouwiki.net/images/f/f8/Th01Shingyoku.png,
 title: Gatekeeper,
 species: null,
 abilities: null,
@@ -35,7 +35,7 @@ officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/wiki/SinGyoku
 
 name: YuugenMagan,
-image: https://en.touhouwiki.net/wiki/File:Th01YuugenMagan.png,
+image: https://en.touhouwiki.net/images/b/b9/Th01YuugenMagan.png,
 title: EvilEyes,
 species: Demon (?),
 abilities: null,
@@ -47,7 +47,7 @@ officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/wiki/YuugenMagan
 
 name: Elis,
-image: https://en.touhouwiki.net/wiki/File:Th01Elis1.png,
+image: https://en.touhouwiki.net/images/1/13/Th01Elis1.png,
 title: Innocence Devil,
 species: Devil/Magician (?),
 abilities: Can turn into a bat,
@@ -59,7 +59,7 @@ officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/wiki/Elis
 
 name: Sariel,
-image: https://en.touhouwiki.net/wiki/File:Th01Sariel1.png,
+image: https://en.touhouwiki.net/images/3/39/Th01Sariel1.png,
 title: Angel of Death,
 species: Angel,
 abilities: null,
@@ -71,7 +71,7 @@ officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/wiki/Sariel
 
 name: Mima,
-image: https://en.touhouwiki.net/wiki/File:Th05mima2.png,
+image: https://en.touhouwiki.net/images/7/7e/Th05mima2.png,
 title: Evil Spirit,
 species: Vengeful spirit (Akuryou),
 abilities: Magic,
@@ -83,7 +83,7 @@ officialGames: Story of Eastern Wonderland,
 link: https://en.touhouwiki.net/wiki/Mima
 
 name: Kikuri,
-image: https://en.touhouwiki.net/wiki/File:Th01Kikuri.png,
+image: https://en.touhouwiki.net/images/7/7d/Th01Kikuri.png,
 title: HellMoon,
 species: God (?),
 abilities: null,
@@ -95,7 +95,7 @@ officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/wiki/Kikuri
 
 name: Konngara,
-image: https://en.touhouwiki.net/wiki/File:Th01Konngara.png,
+image: https://en.touhouwiki.net/images/1/10/Th01Konngara.png,
 title: Astral Knight,
 species: null,
 abilities: null,
@@ -107,7 +107,7 @@ officialGames: Highly Responsive to Prayers,
 link: https://en.touhouwiki.net/wiki/Konngara
 
 name: Genjii,
-image: https://en.touhouwiki.net/wiki/File:Genjii.png,
+image: https://en.touhouwiki.net/images/8/8e/Genjii.png,
 title: Turtle,
 species: Turtle,
 abilities: Able to fly in the sky,
@@ -119,7 +119,7 @@ officialGames: Story of Eastern Wonderland,
 link: https://en.touhouwiki.net/wiki/Genjii
 
 name: Rika,
-image: https://en.touhouwiki.net/wiki/File:Th02Rika.png,
+image: https://en.touhouwiki.net/images/d/d0/Th02Rika.png,
 title: Engineer,
 species: Human,
 abilities: null,
@@ -131,7 +131,7 @@ officialGames: Story in eastern Wonderland,
 link: https://en.touhouwiki.net/wiki/Rika
 
 name: Meira,
-image: https://en.touhouwiki.net/wiki/File:Th02meira.png,
+image: https://en.touhouwiki.net/images/b/bc/Th02meira.png,
 title: Samurai,
 species: Human,
 abilities: null,
@@ -143,7 +143,7 @@ officialGames: Story of Eastern Wonderland,
 link: https://en.touhouwiki.net/wiki/Meira
 
 name: Ellen,
-image: https://en.touhouwiki.net/wiki/File:Th03Ellen.png,
+image: https://en.touhouwiki.net/images/5/5a/Th03Ellen.png,
 title: Hardworking Witch who Dreams of Love,
 species: Witch,
 abilities: Inability to grow old, magic,
@@ -155,7 +155,7 @@ officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/wiki/Ellen
 
 name: Kotohime,
-image: https://en.touhouwiki.net/wiki/File:Th03Kotohime.png,
+image: https://en.touhouwiki.net/images/2/25/Th03Kotohime.png,
 title: Princess Dreaming of Beauty in Danmaku,
 species: Human,
 abilities: null,
@@ -167,7 +167,7 @@ officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/wiki/Kotohime
 
 name: Kana_Anaberal,
-image: https://en.touhouwiki.net/wiki/File:Th03Kana.png,
+image: https://en.touhouwiki.net/images/e/e0/Th03Kana.png,
 title: Maiden Poltergeist Who's Lost Her Dreams,
 species: Poltergeist,
 abilities: null,
@@ -191,7 +191,7 @@ officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/wiki/Rikako_Asakura
 
 name: Chiyuri_Kitashirakawa,
-image: https://en.touhouwiki.net/wiki/File:Th03Chiyuri.png,
+image: https://en.touhouwiki.net/images/1/10/Th03Chiyuri.png,
 title: Resident of Fantasy That Runs Through Time,
 species: Human,
 abilities: Artificial Magic,
@@ -203,7 +203,7 @@ officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/wiki/Chiyuri_Kitashirakawa
 
 name: Yumemi_Okazaki,
-image: https://en.touhouwiki.net/wiki/File:Th03Yumemi.png,
+image: https://en.touhouwiki.net/images/8/8a/Th03Yumemi.png
 title: Fantasy Legend,
 species: Human,
 abilities: Artificial Magic,
@@ -215,7 +215,7 @@ officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/wiki/Yumemi_Okazaki
 
 name: Ruukoto,
-image: https://en.touhouwiki.net/wiki/File:Th03Ruukoto.png,
+image: https://en.touhouwiki.net/images/4/44/Th03Ruukoto.png,
 title: null,
 species: Robot,
 abilities: null,
@@ -227,7 +227,7 @@ officialGames: Phantasmagoria of Dim.Dream,
 link: https://en.touhouwiki.net/wiki/Ruukoto
 
 name: Orange,
-image: https://en.touhouwiki.net/wiki/File:Th04orange.png,
+image: https://en.touhouwiki.net/images/f/f7/Th04orange.png,
 title: Youkai,
 species: Youkai,
 abilities: null,
@@ -239,7 +239,7 @@ officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/wiki/Orange
 
 name: Kurumi,
-image: https://en.touhouwiki.net/wiki/File:Th04kurumi.png,
+image: https://en.touhouwiki.net/images/1/1b/Th04kurumi.png,
 title: Vampire Girl,
 species: Vampire,
 abilities: null,
@@ -251,7 +251,7 @@ officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/wiki/Kurumi
 
 name: Elly,
-image: https://en.touhouwiki.net/wiki/File:Th04Elly.png,
+image: https://en.touhouwiki.net/images/2/28/Th04Elly.png,
 title: Gatekeeper of the Mansion,
 species: null,
 abilities: null,
@@ -263,7 +263,7 @@ officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/wiki/Elly
 
 name: Yuuka_Kazami,
-image: https://en.touhouwiki.net/wiki/File:Th09YuukaKazami.png,
+image: https://en.touhouwiki.net/images/4/4e/Th09YuukaKazami.png,
 title: Flower Master of the Four Seasons,
 species: Youkai,
 abilities: Manipulation of flowers,
@@ -275,7 +275,7 @@ officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/wiki/Yuuka_Kazami
 
 name: Mugetsu,
-image: https://en.touhouwiki.net/wiki/File:Th04mugetu.png,
+image: https://en.touhouwiki.net/images/8/86/Th04mugetu.png,
 title: Main,
 species: Demon,
 abilities: null,
@@ -287,7 +287,7 @@ officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/wiki/Mugetsu
 
 name: Gengetsu,
-image: https://en.touhouwiki.net/wiki/Image:Th04gengetu.png,
+image: https://en.touhouwiki.net/images/9/9c/Th04gengetu.png,
 title: Demon,
 species: Demon,
 abilities: null,
@@ -299,7 +299,7 @@ officialGames: Lotus Land Story,
 link: https://en.touhouwiki.net/wiki/Gengetsu
 
 name: Sara,
-image: https://en.touhouwiki.net/wiki/Image:Th05sara.png,
+image: https://en.touhouwiki.net/images/9/9f/Th05sara.png,
 title: Gate Keeper of Makai,
 species: Demon,
 abilities: null,
@@ -311,7 +311,7 @@ officialGames: Mystic Square,
 link: https://en.touhouwiki.net/wiki/Sara
 
 name: Louise,
-image: https://en.touhouwiki.net/wiki/File:Th05luize.png,
+image: https://en.touhouwiki.net/images/3/33/Th05luize.png,
 title: Makai Person,
 species: Demon,
 abilities: null,
@@ -323,7 +323,7 @@ officialGames: Mystic Square,
 link: https://en.touhouwiki.net/wiki/Louise
 
 name: Alice_Margatroid,
-image: https://en.touhouwiki.net/wiki/File:Th105Alice.png,
+image: https://en.touhouwiki.net/images/f/f0/Th105Alice.png,
 title: Seven-Colored Puppeteer,
 species: Magician, formerly Human,
 abilities: Magic, operating puppets,
@@ -335,7 +335,7 @@ officialGames: Mystic Square,
 link: https://en.touhouwiki.net/wiki/Alice_Margatroid
 
 name: Yuki,
-image: https://en.touhouwiki.net/wiki/Image:Th05yuki01.png,
+image: https://en.touhouwiki.net/images/5/53/Th05yuki01.png,
 title: Witch,
 species: Magician, Witch,
 abilities: Fire Magic,
@@ -347,7 +347,7 @@ officialGames: Mystic Square,
 link: https://en.touhouwiki.net/wiki/Yuki
 
 name: Mai,
-image: https://en.touhouwiki.net/wiki/Image:Th05mai01.png,
+image: https://en.touhouwiki.net/images/2/2e/Th05mai01.png,
 title: Witch,
 species: Magician|Witch,
 abilities: Ice Magic,
@@ -359,7 +359,7 @@ officialGames: Mystic Square,
 link: https://en.touhouwiki.net/wiki/Mai
 
 name: Yumeko,
-image: https://en.touhouwiki.net/wiki/Image:Th05yumeko.png,
+image: https://en.touhouwiki.net/images/4/4a/Th05yumeko.png,
 title: Makai Maid,
 species: Unknown Probably youkai or demon,
 abilities: null,
@@ -371,7 +371,7 @@ officialGames: Mystic Square,
 link: https://en.touhouwiki.net/wiki/Yumeko
 
 name: Shinki,
-image: https://en.touhouwiki.net/wiki/File:Th05shinki.png,
+image: https://en.touhouwiki.net/images/1/12/Th05shinki.png,
 title: The God of Makai,
 species: God,
 abilities: null,
@@ -383,7 +383,7 @@ officialGames: Mystic Square,
 link: https://en.touhouwiki.net/wiki/Shinki
 
 name: Rumia,
-image: https://en.touhouwiki.net/wiki/File:Th06Rumia.png,
+image: https://en.touhouwiki.net/images/f/fe/Th06Rumia.png,
 title: Youkai of the Dusk,
 species: Youkai,
 abilities: Manipulating Darkness,
@@ -395,7 +395,7 @@ officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/wiki/Rumia
 
 name: Daiyousei,
-image: https://en.touhouwiki.net/wiki/File:SCoOW6Daiyousei.png,
+image: https://en.touhouwiki.net/images/8/83/SCoOW6Daiyousei.png,
 title: null,
 species: Fairy,
 abilities: null,
@@ -407,7 +407,7 @@ officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/wiki/Daiyousei
 
 name: Cirno,
-image: https://en.touhouwiki.net/wiki/null,
+image: https://en.touhouwiki.net/images/d/d5/Th14Cirno.png,
 title: Fairy of the Ice,
 species: Fairy,
 abilities: Manipulating cold,
@@ -419,7 +419,7 @@ officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/wiki/Cirno
 
 name: Hong_Meiling,
-image: https://en.touhouwiki.net/wiki/File:Th123Meiling.png,
+image: https://en.touhouwiki.net/images/c/c9/Th123Meiling.png,
 title: Chinese Girl,
 species: Youkai,
 abilities: Usage of Qi,
@@ -431,7 +431,7 @@ officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/wiki/Hong_Meiling
 
 name: Koakuma,
-image: https://en.touhouwiki.net/wiki/File:SCoOW6Koakuma.png,
+image: https://en.touhouwiki.net/images/e/ec/SCoOW6Koakuma.png,
 title: null,
 species: Devil,
 abilities: ,
@@ -443,7 +443,7 @@ officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/wiki/Koakuma
 
 name: Patchouli_Knowledge,
-image: https://en.touhouwiki.net/wiki/File:Th105Patchouli.png,
+image: https://en.touhouwiki.net/images/9/99/Th105Patchouli.png,
 title: The Unmoving Great Library,
 species: Magician (Witch),
 abilities: Manipulation of fire, water, wood, metal, earth, sun, and moon,
@@ -455,7 +455,7 @@ officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/wiki/Patchouli_Knowledge
 
 name: Sakuya_Izayoi,
-image: https://en.touhouwiki.net/wiki/File:Th18Sakuya.png,
+image: https://en.touhouwiki.net/images/6/62/Th18Sakuya.png,
 title: Maid of the Scarlet Devil Mansion,
 species: Human,
 abilities: Space-Time manipulation,
@@ -467,7 +467,7 @@ officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/wiki/Sakuya_Izayoi
 
 name: Remilia_Scarlet,
-image: https://en.touhouwiki.net/wiki/File:Th105Remilia.png,
+image: https://en.touhouwiki.net/images/e/e7/Th105Remilia.png,
 title: The Scarlet Devil,
 species: Vampire,
 abilities: Manipulation of fate,
@@ -479,7 +479,7 @@ officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/wiki/Remilia_Scarlet
 
 name: Flandre_Scarlet,
-image: https://en.touhouwiki.net/wiki/File:GI Flandre Portrait.png,
+image: https://en.touhouwiki.net/images/3/36/GI_Flandre_Portrait.png,
 title: Sister of the Devil,
 species: Vampire,
 abilities: Destroying absolutely anything,
@@ -491,7 +491,7 @@ officialGames: Embodiment of Scarlet Devil,
 link: https://en.touhouwiki.net/wiki/Flandre_Scarlet
 
 name: Letty_Whiterock,
-image: https://en.touhouwiki.net/wiki/File:Th07Letty.png,
+image: https://en.touhouwiki.net/images/0/00/Th07Letty.png,
 title: What Winter Left Behind,
 species: Yuki-onna,
 abilities: Manipulation of chill,
@@ -503,7 +503,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Letty_Whiterock
 
 name: Chen,
-image: https://en.touhouwiki.net/wiki/File:Th07Chen.png,
+image: https://en.touhouwiki.net/images/1/15/Th07Chen.png,
 title: Black Cat of Bad Omens,
 species: Bakeneko,
 abilities: Use of sorcery (possessed as shikigami), Surprising People (as bakeneko),
@@ -515,7 +515,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Chen
 
 name: Lily_White,
-image: https://en.touhouwiki.net/wiki/FIle:SCoOW6Lily.png,
+image: https://en.touhouwiki.net/images/1/11/SCoOW6Lily.png,
 title: Fairy Herald of Spring,
 species: Fairy,
 abilities: Announcing that spring has come,
@@ -527,7 +527,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Lily_White
 
 name: Lunasa_Prismriver,
-image: https://en.touhouwiki.net/wiki/File:Th09Lunasa.png,
+image: https://en.touhouwiki.net/images/4/4d/Th09Lunasa.png,
 title: Poltergeist Violinist,
 species: Poltergeist,
 abilities: Performing on musical instruments without hands or feet. Performing melancholic notes,
@@ -539,7 +539,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Lunasa_Prismriver
 
 name: Lyrica_Prismriver,
-image: https://en.touhouwiki.net/wiki/File:Th09Lyrica.pn,
+image: https://en.touhouwiki.net/images/0/0c/Th09Lyrica.png,
 title: Poltergeist Keyboardist,
 species: Poltergeis,
 abilities: Performing on Musical instruments without hands or feet, performing illusionary notes,
@@ -551,7 +551,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Lyrica_Prismriver
 
 name: Merlin_Prismriver,
-image: https://en.touhouwiki.net/wiki/File:Th09Merlin.png,
+image: https://en.touhouwiki.net/images/1/1d/Th09Merlin.png,
 title: Poltergeist Trumpeter,
 species: Poltergeist,
 abilities: Performing on musical instruments without hands or feet, performing maniac notes,
@@ -563,7 +563,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Merlin_Prismriver
 
 name: Youmu_Konpaku,
-image: https://en.touhouwiki.net/wiki/File:Th17Youmu.png,
+image: https://en.touhouwiki.net/images/8/8c/Th17Youmu.png,
 title: Half-Human Half-Phantom Gardener,
 species: phantom,
 abilities: Handling sword techniques,
@@ -575,7 +575,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Youmu_Konpaku
 
 name: Yuyuko_Saigyouji,
-image: https://en.touhouwiki.net/wiki/File:Th13Yuyuko.png,
+image: https://en.touhouwiki.net/images/c/c9/Th13Yuyuko.png,
 title: Dreaming Ghost,
 species: Ghost,
 abilities: Manipulation of death, Manipulation of departed souls,
@@ -587,7 +587,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Yuyuko_Saigyouji
 
 name: Ran_Yakumo,
-image: https://en.touhouwiki.net/wiki/File:Ran.png,
+image: https://en.touhouwiki.net/images/9/9e/Th07Ran.png,
 title: Shikigami of the Gap Youkai,
 species: Youkai Fox, (Shikigami),
 abilities: Using Shikigami,
@@ -599,7 +599,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Ran_Yakumo
 
 name: Yukari_Yakumo,
-image: https://en.touhouwiki.net/wiki/File:Th155Yukari.png,
+image: https://en.touhouwiki.net/images/e/e8/Th155Yukari.png,
 title: Youkai of Boundaries,
 species: Youkai,
 abilities: Manipulation of boundaries,
@@ -611,7 +611,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Yukari_Yakumo
 
 name: Shanghai_Doll,
-image: https://en.touhouwiki.net/wiki/File:Swr_shanghai.png,
+image: https://en.touhouwiki.net/images/9/98/Swr_shanghai.png,
 title: null,
 species: Doll,
 abilities: Unknown (Destructive magic?) ,
@@ -623,7 +623,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Shanghai_Doll
 
 name: Hourai,
-image: https://en.touhouwiki.net/wiki/File:Th075Hourai.png,
+image: https://en.touhouwiki.net/images/f/f5/Th075Hourai.png,
 title: null,
 species: Doll,
 abilities: Unknown (Destructive Magic),
@@ -635,7 +635,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Hourai
 
 name: Layla_Prismriver,
-image: https://en.touhouwiki.net/wiki/null,
+image: null,
 title: null,
 species: Human,
 abilities: Unknown, at least capable of conjuring poltergeists.,
@@ -647,7 +647,7 @@ officialGames: Referenced in Prismriver Sisters Official Profile,
 link: https://en.touhouwiki.net/wiki/Layla_Prismriver
 
 name: Youki_Konpaku,
-image: https://en.touhouwiki.net/wiki/null,
+image: null,
 title: null,
 species: Half-human half-phantom,
 abilities: Swordsmanship,
@@ -659,7 +659,7 @@ officialGames: Youmu Konpaku's Official Profile,
 link: https://en.touhouwiki.net/wiki/Youki_Konpaku
 
 name: Saigyou_Ayakashi,
-image: https://en.touhouwiki.net/wiki/Image:th07ayakashi01.png,
+image: https://en.touhouwiki.net/images/5/53/Th07ayakashi01.png,
 title: null,
 species: Youkai cherry blossom tree,
 abilities: Charming people into resting in peace under its blossoms, then draining the life out of them,
@@ -671,7 +671,7 @@ officialGames: Perfect Cherry Blossom,
 link: https://en.touhouwiki.net/wiki/Saigyou_Ayakashi
 
 name: Suika_Ibuki,
-image: https://en.touhouwiki.net/wiki/File:TH105Suika.png,
+image: https://en.touhouwiki.net/images/1/1f/TH105Suika.png,
 title: Tiny Night Parade of One Hundred Demons,
 species: Oni,
 abilities: Manipulation of density and sparseness,
@@ -683,7 +683,7 @@ officialGames: Immaterial and Missing Power,
 link: https://en.touhouwiki.net/wiki/Suika_Ibuki
 
 name: Wriggle_Nightbug,
-image: https://en.touhouwiki.net/wiki/File:Th08WriggleNightbug.png,
+image: https://en.touhouwiki.net/images/a/af/Th08WriggleNightbug.png,
 title: A Bug of Light Wriggling in the Dark,
 species: Firefly Youkai,
 abilities: Manipulation of insects,
@@ -695,7 +695,7 @@ officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/wiki/Wriggle_Nightbug
 
 name: Mystia_Lorelei,
-image: https://en.touhouwiki.net/wiki/File:Th09MystiaLorelei.png,
+image: https://en.touhouwiki.net/images/c/c3/Th09MystiaLorelei.png,
 title: Night Sparrow Apparition,
 species: Night Sparrow,
 abilities: Driving people insane by singing, bewildering people by singing,
@@ -707,7 +707,7 @@ officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/wiki/Mystia_Lorelei
 
 name: Keine_Kamishirasawa,
-image: https://en.touhouwiki.net/wiki/File:Th08KeineKamishirasawa2.png,
+image: https://en.touhouwiki.net/images/1/18/Th08KeineKamishirasawa2.png,
 title: History-Eating Half Beast,
 species: Were hakutaku,
 abilities: Eating history (as a human) & Creating history (as a hakutaku),
@@ -719,7 +719,7 @@ officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/wiki/Keine_Kamishirasawa
 
 name: Tewi_Inaba,
-image: https://en.touhouwiki.net/wiki/File:Th09TewiInaba.png,
+image: https://en.touhouwiki.net/images/d/d3/Th09TewiInaba.png,
 title: White Rabbit of Good Fortune,
 species: Rabbit,
 abilities: Conferring good luck to humans,
@@ -731,7 +731,7 @@ officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/wiki/Tewi_Inaba
 
 name: Reisen_Udongein_Inaba,
-image: https://en.touhouwiki.net/wiki/File:Th155Reisen.png,
+image: https://en.touhouwiki.net/images/0/02/Th155Reisen.png,
 title: Lunar-Minded and Asynchronous Youkai Rabbit,
 species: Rabbit|Earth Rabbit, Rabbit|Moon Rabbit (former),
 abilities: Manipulation of insanity and wavelengths,
@@ -743,7 +743,7 @@ officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/wiki/Reisen_Udongein_Inaba
 
 name: Eirin_Yagokoro,
-image: https://en.touhouwiki.net/wiki/File:Th08EirinYagokoro.png,
+image: https://en.touhouwiki.net/images/e/ec/Th08EirinYagokoro.png,
 title: Brain of the Moon,
 species: Lunarian (God),
 abilities: Making any drug, Natural Genius.,
@@ -755,7 +755,7 @@ officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/wiki/Eirin_Yagokoro
 
 name: Kaguya_Houraisan,
-image: https://en.touhouwiki.net/wiki/File:Th08Kaguya.png,
+image: https://en.touhouwiki.net/images/d/d3/Th08Kaguya.png,
 title: Eternal Princess,
 species: Lunarian,
 abilities: Manipulation of eternity and the instantaneous,
@@ -767,7 +767,7 @@ officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/wiki/Kaguya_Houraisan
 
 name: Fujiwara_no_Mokou,
-image: https://en.touhouwiki.net/wiki/Image:Th155Mokou.png,
+image: https://en.touhouwiki.net/images/0/04/Th155Mokou.png,
 title: Figure of the Person of Hourai,
 species: Human,
 abilities: Eternal youth and immortality, resistance to and manipulation of fire,
@@ -779,7 +779,7 @@ officialGames: Imperishable Night,
 link: https://en.touhouwiki.net/wiki/Fujiwara_no_Mokou
 
 name: Aya_Shameimaru,
-image: https://en.touhouwiki.net/wiki/File:Th16Aya.png,
+image: https://en.touhouwiki.net/images/b/b4/Th16Aya.png,
 title: Traditional Reporter of Fantasy,
 species: Crow Tengu,
 abilities: Manipulation of wind,
@@ -791,7 +791,7 @@ officialGames: Phantasmagoria of Flower View,
 link: https://en.touhouwiki.net/wiki/Aya_Shameimaru
 
 name: Medicine_Melancholy,
-image: https://en.touhouwiki.net/wiki/File:Th09MedicineMelancholy.png,
+image: https://en.touhouwiki.net/images/e/ea/Th09MedicineMelancholy.png,
 title: Little Sweet Poison,
 species: Doll gone youkai ,
 abilities: Manipulation of poison,
@@ -803,7 +803,7 @@ officialGames: Phantasmagoria of Flower View,
 link: https://en.touhouwiki.net/wiki/Medicine_Melancholy
 
 name: Komachi_Onozuka,
-image: https://en.touhouwiki.net/wiki/File:KomachiSWR.png,
+image: https://en.touhouwiki.net/images/3/37/Th105Komachi.png,
 title: Guide of the Sanzu River,
 species: Shinigami,
 abilities: Manipulation of distance,
@@ -815,7 +815,7 @@ officialGames: Phantasmagoria of Flower View,
 link: https://en.touhouwiki.net/wiki/Komachi_Onozuka
 
 name: Eiki_Shiki,_Yamaxanadu,
-image: https://en.touhouwiki.net/wiki/File:Th09ShikieikiYamaxanadu.png,
+image: https://en.touhouwiki.net/images/f/f2/Th09ShikieikiYamaxanadu.png,
 title: Supreme Judge of Paradise,
 species: Yama,
 abilities: Can distinctly judge anything to be good or evil,
@@ -827,7 +827,7 @@ officialGames: Phantasmagoria of Flower View,
 link: https://en.touhouwiki.net/wiki/Eiki_Shiki,_Yamaxanadu
 
 name: Shizuha_Aki,
-image: https://en.touhouwiki.net/wiki/File:Th10Shizuha.png,
+image: https://en.touhouwiki.net/images/7/75/Th10Shizuha.png,
 title: Symbol of Loneliness and Demise,
 species: Goddess of the autumn leaves,
 abilities: Controlling the turning of leaves,
@@ -839,7 +839,7 @@ officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/wiki/Shizuha_Aki
 
 name: Minoriko_Aki,
-image: https://en.touhouwiki.net/wiki/File:Th10Minoriko.png,
+image: https://en.touhouwiki.net/images/3/34/Th10Minoriko.png,
 title: Symbol of Abundance and Plenty,
 species: Harvest Goddess,
 abilities: controlling abundent Harvest,
@@ -851,7 +851,7 @@ officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/wiki/Minoriko_Aki
 
 name: Hina_Kagiyama,
-image: https://en.touhouwiki.net/wiki/File:Th10Hina.png,
+image: https://en.touhouwiki.net/images/5/51/Th10Hina.png,
 title: The Hidden God Nagashi-bina,
 species: Misfortune God,
 abilities: stockpiling misfortune,
@@ -863,7 +863,7 @@ officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/wiki/Hina_Kagiyama
 
 name: Nitori_Kawashiro,
-image: https://en.touhouwiki.net/wiki/File:Th155Nitori.png,
+image: https://en.touhouwiki.net/images/b/b5/Th155Nitori.png,
 title: Super Youkai Warhead,
 species: Kappa,
 abilities: Manipulation of water,
@@ -875,7 +875,7 @@ officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/wiki/Nitori_Kawashiro
 
 name: Momiji_Inubashiri,
-image: https://en.touhouwiki.net/wiki/File:Th125Momizi01.png,
+image: https://en.touhouwiki.net/images/5/55/Momiji_Whos_Who.png,
 title: The Petty Patrol Tengu,
 species: Hakurou Tengu|White Wolf Tengu,
 abilities: Seeing a thousand ri ahead,
@@ -887,7 +887,7 @@ officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/wiki/Momiji_Inubashiri
 
 name: Sanae_Kochiya,
-image: https://en.touhouwiki.net/wiki/File:Th18Sanae.png,
+image: https://en.touhouwiki.net/images/6/69/Th18Sanae.png,
 title: Newbie Goddess of the Mountain,
 species: Human/Living God,
 abilities: Causing miracles to occur,
@@ -899,7 +899,7 @@ officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/wiki/Sanae_Kochiya
 
 name: Kanako_Yasaka,
-image: https://en.touhouwiki.net/wiki/File:Th175Kanako.png,
+image: https://en.touhouwiki.net/images/3/30/Th175Kanako.png,
 title: The Avatar of Mountains and Lakes,
 species: Goddess of wind and rain,
 abilities: creating heavenliness (Qian),
@@ -911,7 +911,7 @@ officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/wiki/Kanako_Yasaka
 
 name: Suwako_Moriya,
-image: https://en.touhouwiki.net/wiki/File:Th123Suwako.png,
+image: https://en.touhouwiki.net/images/2/2c/Th123Suwako.png,
 title: The Highest of Indigenous Gods,
 species: God of Mountains,
 abilities: Creating earthiness,
@@ -923,7 +923,7 @@ officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/wiki/Suwako_Moriya
 
 name: Tenma,
-image: https://en.touhouwiki.net/wiki/null,
+image: null,
 title: null,
 species: Tengu,
 abilities: Unknown,
@@ -935,7 +935,7 @@ officialGames: eferenced in Aya Shameimaru's Official Profile,
 link: https://en.touhouwiki.net/wiki/Tenma
 
 name: Mishaguji,
-image: https://en.touhouwiki.net/wiki/file:TH123Mishaguji.png,
+image: https://en.touhouwiki.net/images/e/e9/TH123Mishaguji.png,
 title: null,
 species: God,
 abilities: The ability to cast curses,
@@ -947,7 +947,7 @@ officialGames: Mountain of Faith,
 link: https://en.touhouwiki.net/wiki/Mishaguji
 
 name: Iku_Nagae,
-image: https://en.touhouwiki.net/wiki/File:Th105Iku.png,
+image: https://en.touhouwiki.net/images/d/d9/Th105Iku.png,
 title: Beautiful Scarlet Cloth,
 species: Youkai oarfish,
 abilities: Reading the atmosphere,
@@ -959,7 +959,7 @@ officialGames: Scarlet Weather Rhapsody,
 link: https://en.touhouwiki.net/wiki/Iku_Nagae
 
 name: Tenshi_Hinanawi,
-image: https://en.touhouwiki.net/wiki/File:Th155Tenshi.png,
+image: https://en.touhouwiki.net/images/d/d6/Th155Tenshi.png,
 title: Girl of the Sphere of Neither Perception nor Non-Perception,
 species: Celestial,
 abilities: Manipulation of earth, identification of one's spirit (Sword of Hisou),
@@ -971,7 +971,7 @@ officialGames: Scarlet Weather Rhapsody,
 link: https://en.touhouwiki.net/wiki/Tenshi_Hinanawi
 
 name: Kisume,
-image: https://en.touhouwiki.net/wiki/File:Th11Kisume.png,
+image: https://en.touhouwiki.net/images/f/fe/Th11Kisume.png,
 title: The Fearsome Well Spirit,
 species: Tsurube-otoshi,
 abilities: Dropping will-o'-the-wisps,
@@ -983,7 +983,7 @@ officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/wiki/Kisume
 
 name: Yamame_Kurodani,
-image: https://en.touhouwiki.net/wiki/File:Th175Yamame.png,
+image: https://en.touhouwiki.net/images/5/5b/Th175Yamame.png,
 title: The Bright Net in the Dark Cave,
 species: Tsuchigumo,
 abilities: Manipulation of illness (mainly infectious disease),
@@ -995,7 +995,7 @@ officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/wiki/Yamame_Kurodani
 
 name: Parsee_Mizuhashi,
-image: https://en.touhouwiki.net/wiki/File:Th11Parsee.png,
+image: https://en.touhouwiki.net/images/e/ed/Th11Parsee.png,
 title: The Jealousy Beneath the Earth's Crust,
 species: Hashihime,
 abilities: Manipulation of jealousy,
@@ -1019,7 +1019,7 @@ officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/wiki/Yuugi_Hoshiguma
 
 name: Satori_Komeiji,
-image: https://en.touhouwiki.net/wiki/File:Th11Satori.png,
+image: https://en.touhouwiki.net/images/0/00/Th11Satori.png,
 title: The Girl Even the Vengeful Spirits Fear,
 species: Satori (Species)|Satori,
 abilities: Reading minds,
@@ -1031,7 +1031,7 @@ officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/wiki/Satori_Komeiji
 
 name: Rin_Kaenbyou,
-image: https://en.touhouwiki.net/wiki/File:Th11Rin.png,
+image: https://en.touhouwiki.net/images/a/a5/Th11Rin.png,
 title: Hell's Traffic Accident,
 species: Kasha,
 abilities: Carrying away corpses, controlling and communicating with spirits,
@@ -1043,7 +1043,7 @@ officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/wiki/Rin_Kaenbyou
 
 name: Utsuho_Reiuji,
-image: https://en.touhouwiki.net/wiki/File:GI Utsuho Portrait.png‎,
+image: https://en.touhouwiki.net/images/d/d5/GI_Utsuho_Portrait.png,
 title: Scorching, Troublesome Divine Flame,
 species: Yatagarasu,
 abilities: Manipulation of nuclear fusion,
@@ -1055,7 +1055,7 @@ officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/wiki/Utsuho_Reiuji
 
 name: Koishi_Komeiji,
-image: https://en.touhouwiki.net/wiki/File:Th155Koishi.png,
+image: https://en.touhouwiki.net/images/4/40/Th155Koishi.png,
 title: The Closed Eyes of Love,
 species: Satori (Species)|Satori,
 abilities: Manipulation of the Unconscious Mind,
@@ -1067,7 +1067,7 @@ officialGames: Subterranean Animism,
 link: https://en.touhouwiki.net/wiki/Koishi_Komeiji
 
 name: Nazrin,
-image: https://en.touhouwiki.net/wiki/File:Th12Nazrin1.png,
+image: https://en.touhouwiki.net/images/a/ab/Th12Nazrin1.png,
 title: The Little Dowser General,
 species: Mouse youkai,
 abilities: Finding sought-for items,
@@ -1079,7 +1079,7 @@ officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/wiki/Nazrin
 
 name: Kogasa_Tatara,
-image: https://en.touhouwiki.net/wiki/File:Th175Kogasa.png,
+image: https://en.touhouwiki.net/images/2/28/Th175Kogasa.png,
 title: The Cheery Forgotten Umbrella,
 species: Karakasa obake,
 abilities: Surprising humans, First-rate Blacksmithing,
@@ -1091,7 +1091,7 @@ officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/wiki/Kogasa_Tatara
 
 name: Ichirin_Kumoi,
-image: https://en.touhouwiki.net/wiki/File:Th155Ichirin.png,
+image: https://en.touhouwiki.net/images/d/d6/Th155Ichirin.png,
 title: The Great Wheel, Having Guarded and Been Guarded,
 species: Youkai,
 abilities: Using nyuudou,
@@ -1103,7 +1103,7 @@ officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/wiki/Ichirin_Kumoi
 
 name: Unzan,
-image: https://en.touhouwiki.net/wiki/File:Th135Unzan.png,
+image: https://en.touhouwiki.net/images/c/ce/Th135Unzan.png,
 title: The Big Wheel, Having Guarded and Been Guarded ,
 species: Nyuudou,
 abilities: Changing shape and size at will,
@@ -1115,7 +1115,7 @@ officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/wiki/Unzan
 
 name: Minamitsu_Murasa,
-image: https://en.touhouwiki.net/wiki/File:Th175Murasa.png,
+image: https://en.touhouwiki.net/images/9/9f/Th175Murasa.png,
 title: The Ghost Left From the Shipwreck Accident,
 species: Ship Phantom,
 abilities: Causing shipwrecks,
@@ -1127,7 +1127,7 @@ officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/wiki/Minamitsu_Murasa
 
 name: Shou_Toramaru,
-image: https://en.touhouwiki.net/wiki/File:Th12Shou.png,
+image: https://en.touhouwiki.net/images/e/e8/Th12Shou.png,
 title: Disciple of Bishamonten,
 species: Bishamonten,
 abilities: Gathering treasures,
@@ -1139,7 +1139,7 @@ officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/wiki/Shou_Toramaru
 
 name: Byakuren_Hijiri,
-image: https://en.touhouwiki.net/wiki/File:Th155Byakuren.png,
+image: https://en.touhouwiki.net/images/6/6e/Th155Byakuren.png,
 title: The Sealed Great Magician,
 species: Magician, Human (former),
 abilities: Magic (specialization in magic that increases her physical abilities),
@@ -1151,7 +1151,7 @@ officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/wiki/Byakuren_Hijiri
 
 name: Nue_Houjuu,
-image: https://en.touhouwiki.net/wiki/File:Nue2.png,
+image: https://en.touhouwiki.net/images/0/0b/Th12Nue.png,
 title: The Unidentified Fantastic Flying Girl,
 species: Nue,
 abilities: Making objects unidentifiable,
@@ -1163,7 +1163,7 @@ officialGames: Undefined Fantastic Object,
 link: https://en.touhouwiki.net/wiki/Nue_Houjuu
 
 name: Goliath_Doll,
-image: https://en.touhouwiki.net/wiki/File:Th123GoliathDoll.png,
+image: https://en.touhouwiki.net/images/a/ac/Th123GoliathDoll.png,
 title: null,
 species: Doll,
 abilities: null,
@@ -1175,7 +1175,7 @@ officialGames: Touhou Hisoutensoku,
 link: https://en.touhouwiki.net/wiki/Goliath_Doll
 
 name: Giant_Catfish,
-image: https://en.touhouwiki.net/wiki/File:Th123Catfish.png,
+image: https://en.touhouwiki.net/images/0/0f/Th123Catfish.png,
 title: null,
 species: Namazu,
 abilities: Causing earthquakes,
@@ -1187,7 +1187,7 @@ officialGames: Touhou Hisoutensoku,
 link: https://en.touhouwiki.net/wiki/Giant_Catfish
 
 name: Hisoutensoku,
-image: https://en.touhouwiki.net/wiki/File:SokuOSTHisoutensoku.png,
+image: https://en.touhouwiki.net/images/c/c1/SokuOSTHisoutensoku.png,
 title: null,
 species: Attraction,
 abilities: null,
@@ -1199,7 +1199,7 @@ officialGames: Touhou Hisoutensoku,
 link: https://en.touhouwiki.net/wiki/Hisoutensoku
 
 name: Hatate_Himekaidou,
-image: https://en.touhouwiki.net/wiki/File:Th12.5HatateHimekaidou.png,
+image: https://en.touhouwiki.net/images/d/d6/Th12.5HatateHimekaidou.png,
 title: Modern-Day Spirit Photography Reporter,
 species: tengu|Crow Tengu,
 abilities: Spirit photography,
@@ -1211,7 +1211,7 @@ officialGames: Double Spoiler,
 link: https://en.touhouwiki.net/wiki/Hatate_Himekaidou
 
 name: Kyouko_Kasodani,
-image: https://en.touhouwiki.net/wiki/File:Th13Kyouko.png,
+image: https://en.touhouwiki.net/images/9/91/Th13Kyouko.png,
 title: Sutra Chanting Yamabiko,
 species: Yamabiko,
 abilities: Reflection of sound,
@@ -1223,7 +1223,7 @@ officialGames: Ten Desires,
 link: https://en.touhouwiki.net/wiki/Kyouko_Kasodani
 
 name: Yoshika_Miyako,
-image: https://en.touhouwiki.net/wiki/File:Th13Yoshika.png,
+image: https://en.touhouwiki.net/images/2/2e/Th13Yoshika.png,
 title: Loyal Undead,
 species: Jiang Shi,
 abilities: Eating anything,
@@ -1235,7 +1235,7 @@ officialGames: Ten Desires,
 link: https://en.touhouwiki.net/wiki/Yoshika_Miyako
 
 name: Seiga_Kaku,
-image: https://en.touhouwiki.net/wiki/File:Th13Seiga.png,
+image: https://en.touhouwiki.net/images/b/b0/Th13Seiga.png,
 title: The Wicked Hermit Who Passes Through Walls,
 species: Hermit,
 abilities: Passing through walls,
@@ -1247,7 +1247,7 @@ officialGames: Ten Desires,
 link: https://en.touhouwiki.net/wiki/Seiga_Kaku
 
 name: Soga_no_Tojiko,
-image: https://en.touhouwiki.net/wiki/File:Th13Tojiko.png,
+image: https://en.touhouwiki.net/images/0/07/Th13Tojiko.png,
 title: Ghost of the Descendant of the Gods,
 species: Ghost,
 abilities: Causing Thunder,
@@ -1259,7 +1259,7 @@ officialGames: Ten Desires,
 link: https://en.touhouwiki.net/wiki/Soga_no_Tojiko
 
 name: Mononobe_no_Futo,
-image: https://en.touhouwiki.net/wiki/File:Th155Futo.png,
+image: https://en.touhouwiki.net/images/d/da/Th155Futo.png,
 title: The Shikaisen from Ancient Japan,
 species: Taoist practitioner claiming to be a shikaisen,
 abilities: Manipulation of wikipedia:Feng shui|feng shui,
@@ -1271,7 +1271,7 @@ officialGames: Ten Desires,
 link: https://en.touhouwiki.net/wiki/Mononobe_no_Futo
 
 name: Toyosatomimi_no_Miko,
-image: https://en.touhouwiki.net/wiki/File:Th155Miko.png,
+image: https://en.touhouwiki.net/images/3/30/Th155Miko.png,
 title: Shoutoku Taoist,
 species: Saint, Hermit,
 abilities: Listening to ten people's conversations at the same time.,
@@ -1283,7 +1283,7 @@ officialGames: Ten Desires,
 link: https://en.touhouwiki.net/wiki/Toyosatomimi_no_Miko
 
 name: Mamizou_Futatsuiwa,
-image: https://en.touhouwiki.net/wiki/File:Th155Mamizou.png,
+image: https://en.touhouwiki.net/images/4/45/Th155Mamizou.png,
 title: The Bake-danuki with Ten Transformations,
 species: Bake-danuki,
 abilities: Disguising things and herself,
@@ -1295,7 +1295,7 @@ officialGames: Ten Desires,
 link: https://en.touhouwiki.net/wiki/Mamizou_Futatsuiwa
 
 name: Hata_no_Kokoro,
-image: https://en.touhouwiki.net/wiki/File:Th155Kokoro.png,
+image: https://en.touhouwiki.net/images/8/8d/Th155Kokoro.png,
 title: The Expressive Poker Face,
 species: Menreiki,
 abilities: Manipulating emotions,
@@ -1307,7 +1307,7 @@ officialGames: Hopeless Masquerade,
 link: https://en.touhouwiki.net/wiki/Hata_no_Kokoro
 
 name: Wakasagihime,
-image: https://en.touhouwiki.net/wiki/File:Th14Wakasagihime.png,
+image: https://en.touhouwiki.net/images/1/1e/Th14Wakasagihime.png,
 title: Mermaid Living in Fresh Water,
 species: Mermaid,
 abilities: Grows in power when underwater,
@@ -1319,7 +1319,7 @@ officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/wiki/Wakasagihime
 
 name: Sekibanki,
-image: https://en.touhouwiki.net/wiki/File:Th14Sekibanki.png,
+image: https://en.touhouwiki.net/images/5/58/Th14Sekibanki.png,
 title: The Rokurokubi Horror,
 species: Rokurokubi,
 abilities: Making her head fly,
@@ -1331,7 +1331,7 @@ officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/wiki/Sekibanki
 
 name: Kagerou_Imaizumi,
-image: https://en.touhouwiki.net/wiki/File:Th14Kagerou.png,
+image: https://en.touhouwiki.net/images/0/00/Th14Kagerou.png,
 title: The Bamboo Forest's Loup-Garou,
 species: Werewolf,
 abilities: Can transform into a wolf on the night of the full moon,
@@ -1343,7 +1343,7 @@ officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/wiki/Kagerou_Imaizumi
 
 name: Benben_Tsukumo,
-image: https://en.touhouwiki.net/wiki/File:Th14Benben.png,
+image: https://en.touhouwiki.net/images/d/d9/Th14Benben.png,
 title: Tsukumogami of an Aging Biwa,
 species: Tsukumogami (biwabokuboku),
 abilities: Making sounds and performing on her own,
@@ -1355,7 +1355,7 @@ officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/wiki/Benben_Tsukumo
 
 name: Yatsuhashi_Tsukumo,
-image: https://en.touhouwiki.net/wiki/File:Th14Yatsuhashi.png,
+image: https://en.touhouwiki.net/images/f/fb/Th14Yatsuhashi.png,
 title: Tsukumogami of an Aging Koto,
 species: Tsukumogami (kotofurunushi),
 abilities: Making sounds and performing on her own,
@@ -1367,7 +1367,7 @@ officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/wiki/Yatsuhashi_Tsukumo
 
 name: Seija_Kijin,
-image: https://en.touhouwiki.net/wiki/File:Th143Seija.png,
+image: https://en.touhouwiki.net/images/e/ed/Th143Seija.png,
 title: Counterattacking Amanojaku,
 species: Amanojaku,
 abilities: Turn over anything,
@@ -1379,7 +1379,7 @@ officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/wiki/Seija_Kijin
 
 name: Shinmyoumaru_Sukuna,
-image: https://en.touhouwiki.net/wiki/File:Th155Shinmyoumaru.png,
+image: https://en.touhouwiki.net/images/5/54/Th155Shinmyoumaru.png,
 title: Descendent of the Inchlings,
 species: Inchling,
 abilities: Using the Miracle Mallet,
@@ -1391,7 +1391,7 @@ officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/wiki/Shinmyoumaru_Sukuna
 
 name: Raiko_Horikawa,
-image: https://en.touhouwiki.net/wiki/File:Th14Raiko.png,
+image: https://en.touhouwiki.net/images/f/ff/Th14Raiko.png,
 title: Phantasmal Percussionist,
 species: Tsukumogami,
 abilities: Making anything follow a rhythm,
@@ -1403,7 +1403,7 @@ officialGames: Double Dealing Character,
 link: https://en.touhouwiki.net/wiki/Raiko_Horikawa
 
 name: Sumireko_Usami,
-image: https://en.touhouwiki.net/wiki/File:Th165Sumireko.png,
+image: https://en.touhouwiki.net/images/5/57/Th165Sumireko.png,
 title: Mystic and Troublesome Female Student,
 species: Human/Doppelganger,
 abilities: Assorted psychic powers (ESP),
@@ -1415,7 +1415,7 @@ officialGames: Urban Legend in Limbo,
 link: https://en.touhouwiki.net/wiki/Sumireko_Usami
 
 name: Seiran,
-image: https://en.touhouwiki.net/wiki/File:Th15Seiran.png,
+image: https://en.touhouwiki.net/images/9/9d/Th15Seiran.png,
 title: The Pale Blue Eagle Ravi,
 species: Moon rabbit,
 abilities: Firing bullets from other dimensions,
@@ -1427,7 +1427,7 @@ officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/wiki/Seiran
 
 name: Ringo,
-image: https://en.touhouwiki.net/wiki/File:Th15Ringo.png,
+image: https://en.touhouwiki.net/images/4/46/Th15Ringo.png,
 title: The Orange Eagle Ravi,
 species: Moon rabbit,
 abilities: Growing in strength by eating dango,
@@ -1439,7 +1439,7 @@ officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/wiki/Ringo
 
 name: Doremy_Sweet,
-image: https://en.touhouwiki.net/wiki/File:Th155Doremy.png,
+image: https://en.touhouwiki.net/images/8/84/Th155Doremy.png,
 title: Ruler of Dreams,
 species: Baku,
 abilities: Eating and creating dreams,
@@ -1451,7 +1451,7 @@ officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/wiki/Doremy_Sweet
 
 name: Sagume_Kishin,
-image: https://en.touhouwiki.net/wiki/File:TH15Kishin.png,
+image: https://en.touhouwiki.net/images/3/35/TH15Kishin.png,
 title: Goddess Who Invites Unfortunate Slips of the Tongue,
 species: Lunarian Divine Spirit,
 abilities: Reversing a situation with her words,
@@ -1463,7 +1463,7 @@ officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/wiki/Sagume_Kishin
 
 name: Clownpiece,
-image: https://en.touhouwiki.net/wiki/File:TH15Clownpiece.png,
+image: https://en.touhouwiki.net/images/5/53/TH15Clownpiece.png,
 title: Fairy of Hell,
 species: Fairy (Lampad),
 abilities: Driving people to madness,
@@ -1475,7 +1475,7 @@ officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/wiki/Clownpiece
 
 name: Junko,
-image: https://en.touhouwiki.net/wiki/File:Th15Junko.png,
+image: https://en.touhouwiki.net/images/e/ee/Th15Junko.png,
 title: null,
 species: Divine spirit,
 abilities: Purify anything,
@@ -1487,7 +1487,7 @@ officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/wiki/Junko
 
 name: Hecatia_Lapislazuli,
-image: https://en.touhouwiki.net/wiki/File:TH15Hecatia.png,
+image: https://en.touhouwiki.net/images/9/9a/TH15Hecatia.png,
 title: Goddess of Hell,
 species: Goddess,
 abilities: To have three bodies,
@@ -1499,7 +1499,7 @@ officialGames: Legacy of Lunatic Kingdom,
 link: https://en.touhouwiki.net/wiki/Hecatia_Lapislazuli
 
 name: Joon_Yorigami,
-image: https://en.touhouwiki.net/wiki/File:GIJoon.png,
+image: https://en.touhouwiki.net/images/5/58/GIJoon.png,
 title: The Most-Despicable and Disastrous Younger Twin Sister,
 species: Pestilence God,
 abilities: Causing consumption of financial assets,
@@ -1511,7 +1511,7 @@ officialGames: Antinomy of Common Flowers,
 link: https://en.touhouwiki.net/wiki/Joon_Yorigami
 
 name: Shion_Yorigami,
-image: https://en.touhouwiki.net/wiki/File:GIShion.png,
+image: https://en.touhouwiki.net/images/3/33/GIShion.png,
 title: The Most-Despicable and Disastrous Elder Twin Sister,
 species: Poverty God,
 abilities: Capable of making people unlucky, including herself,
@@ -1523,7 +1523,7 @@ officialGames: Antinomy of Common Flowers,
 link: https://en.touhouwiki.net/wiki/Shion_Yorigami
 
 name: Eternity_Larva,
-image: https://en.touhouwiki.net/wiki/File:Th16Eternity.png,
+image: https://en.touhouwiki.net/images/3/3e/Th16Eternity.png,
 title: The Butterfly Fairy who Approaches God,
 species: Fairy, God,
 abilities: Scattering scales,
@@ -1535,7 +1535,7 @@ officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/wiki/Eternity_Larva
 
 name: Nemuno_Sakata,
-image: https://en.touhouwiki.net/wiki/File:Th16Nemuno.png,
+image: https://en.touhouwiki.net/images/2/2e/Th16Nemuno.png,
 title: The Yamanba who Surpasses This Floating World's Barriers,
 species: Yamanba,
 abilities: Creating sanctuaries,
@@ -1547,7 +1547,7 @@ officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/wiki/Nemuno_Sakata
 
 name: Aunn_Komano,
-image: https://en.touhouwiki.net/wiki/File:Th16Aunn.png,
+image: https://en.touhouwiki.net/images/6/66/Th16Aunn.png,
 title: The Guardian Beast Devoted to Shintoism and Buddhism,
 species: Komainu,
 abilities: Locating Shintoism and Buddhism,
@@ -1559,7 +1559,7 @@ officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/wiki/Aunn_Komano
 
 name: Narumi_Yatadera,
-image: https://en.touhouwiki.net/wiki/File:Th16Narumi.png,
+image: https://en.touhouwiki.net/images/8/80/Th16Narumi.png,
 title: The Magical Jizo who Manifested in the Forest,
 species: Magician (animated Jizo statue),
 abilities: Capable of using magic (control of life),
@@ -1571,7 +1571,7 @@ officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/wiki/Narumi_Yatadera
 
 name: Satono_Nishida,
-image: https://en.touhouwiki.net/wiki/File:Th16Satano.png,
+image: https://en.touhouwiki.net/images/d/d3/Th16Satano.png,
 title: The All-Too-Dangerous Backup Dancers,
 species: Human,
 abilities: Drawing out people's mental energy by dancing behind them,
@@ -1583,7 +1583,7 @@ officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/wiki/Satono_Nishida
 
 name: Mai_Teireida,
-image: https://en.touhouwiki.net/wiki/File:Th16Mai.png,
+image: https://en.touhouwiki.net/images/7/7a/Th16Mai.png,
 title: The All-Too-Dangerous Backup Dancers,
 species: Human ,
 abilities: Drawing out people's vitality by dancing behind them,
@@ -1595,7 +1595,7 @@ officialGames: Satono,
 link: https://en.touhouwiki.net/wiki/Mai_Teireida
 
 name: Okina_Matara,
-image: https://en.touhouwiki.net/wiki/File:Th175Okina.png,
+image: https://en.touhouwiki.net/images/7/7f/Th175Okina.png,
 title: The Ultimate, Absolute Secret God,
 species: secret God,
 abilities: Creating doors on the back of anything, Manipulation of life energy, Manipulation of mental energy,
@@ -1607,7 +1607,7 @@ officialGames: Hidden Star in Four Seasons,
 link: https://en.touhouwiki.net/wiki/Okina_Matara
 
 name: Eika_Ebisu,
-image: https://en.touhouwiki.net/wiki/File:Th17Eika.png,
+image: https://en.touhouwiki.net/images/a/a2/Th17Eika.png,
 title: Stillborn Idol of the Riverbed,
 species: God,
 abilities: Stacking stones well,
@@ -1619,7 +1619,7 @@ officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/wiki/Eika_Ebisu
 
 name: Urumi_Ushizaki,
-image: https://en.touhouwiki.net/wiki/File:Th17Urumi.png,
+image: https://en.touhouwiki.net/images/9/9b/Th17Urumi.png,
 title: Parental Guardian of Ancient Fish,
 species: Ushi-oni,
 abilities: Changing the weight of everyday objects,
@@ -1631,7 +1631,7 @@ officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/wiki/Urumi_Ushizaki
 
 name: Kutaka_Niwatari,
-image: https://en.touhouwiki.net/wiki/File:Th175Kutaka.png,
+image: https://en.touhouwiki.net/images/e/ed/Th175Kutaka.png,
 title: Clerical God of Hell's Checkpoint,
 species: God of Chickens,Yaoyorozu no Kami,
 abilities: Healing throat illnesses,
@@ -1643,7 +1643,7 @@ officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/wiki/Kutaka_Niwatari
 
 name: Yachie_Kicchou,
-image: https://en.touhouwiki.net/wiki/File:Th17Yachie.png,
+image: https://en.touhouwiki.net/images/a/a2/Th17Yachie.png,
 title: Matriarch of the Kiketsu Family,
 species: Jidiao,
 abilities: Making people lose the will to fight back,
@@ -1655,7 +1655,7 @@ officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/wiki/Yachie_Kicchou
 
 name: Mayumi_Joutouguu,
-image: https://en.touhouwiki.net/wiki/File:Th17Mayumi.png,
+image: https://en.touhouwiki.net/images/3/38/Th17Mayumi.png,
 title: Haniwa Lance Corporal,
 species: Haniwa,
 abilities: Directly turning her loyalty into strength,
@@ -1667,7 +1667,7 @@ officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/wiki/Mayumi_Joutouguu
 
 name: Keiki_Haniyasushin,
-image: https://en.touhouwiki.net/wiki/File:Th17Keiki.png,
+image: https://en.touhouwiki.net/images/9/92/Th17Keiki.png,
 title: The Sculptor God Crafted by Utter Isolation,
 species: God (Divine Spirit),
 abilities: Ability to create idols,
@@ -1679,7 +1679,7 @@ officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/wiki/Keiki_Haniyasushin
 
 name: Saki_Kurokoma,
-image: https://en.touhouwiki.net/wiki/File:Th17Saki.png,
+image: https://en.touhouwiki.net/images/8/84/Th17Saki.png,
 title: Matriarch of the Keiga Family,
 species: Kurokoma,
 abilities: Having unmatched leg strength,
@@ -1691,7 +1691,7 @@ officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/wiki/Saki_Kurokoma
 
 name: Yuuma_Toutetsu,
-image: https://en.touhouwiki.net/wiki/File:TH175Yuuma.png,
+image: https://en.touhouwiki.net/images/5/5a/TH175Yuuma.png,
 title: Undefeated Matriarch of the Gouyoku Alliance,
 species: Taotie,
 abilities: Absorbing anything,
@@ -1703,7 +1703,7 @@ officialGames: Wily Beast and Weakest Creature,
 link: https://en.touhouwiki.net/wiki/Yuuma_Toutetsu
 
 name: Mike_Goutokuji,
-image: https://en.touhouwiki.net/wiki/File:Th18Mike.png,
+image: https://en.touhouwiki.net/images/f/fc/Th18Mike.png,
 title: Lucky Charm for Prosperous Commerce,
 species: Maneki-neko,
 abilities: Beckoning in money or customers,
@@ -1715,7 +1715,7 @@ officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/wiki/Mike_Goutokuji
 
 name: Takane_Yamashiro,
-image: https://en.touhouwiki.net/wiki/File:Th18Takane.png,
+image: https://en.touhouwiki.net/images/4/48/Th18Takane.png,
 title: Business Youkai of the Mountain's Recess,
 species: Yamawaro,
 abilities: Manipulating forest qi,
@@ -1727,7 +1727,7 @@ officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/wiki/Takane_Yamashiro
 
 name: Sannyo_Komakusa,
-image: https://en.touhouwiki.net/wiki/File:Th18Dayuu.png,
+image: https://en.touhouwiki.net/images/f/fe/Th18Dayuu.png,
 title: Highland-Dwelling Yamajorou,
 species: Yamajorou,
 abilities: Controlling people's minds with tobacco smoke,
@@ -1739,7 +1739,7 @@ officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/wiki/Sannyo_Komakusa
 
 name: Misumaru_Tamatsukuri,
-image: https://en.touhouwiki.net/wiki/File:Th18Misumaru.png,
+image: https://en.touhouwiki.net/images/e/e5/Th18Misumaru.png,
 title: Genuine Magatama-Producing Craftsman,
 species: God,
 abilities: Making magatama,
@@ -1751,7 +1751,7 @@ officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/wiki/Misumaru_Tamatsukuri
 
 name: Tsukasa_Kudamaki,
-image: https://en.touhouwiki.net/wiki/File:Th18Tsukasa.png,
+image: https://en.touhouwiki.net/images/5/5d/Th18Tsukasa.png,
 title: Wicked White Fox Who Whispers in Ears,
 species: Kuda-gitsune,
 abilities: Capable of slipping into places where one's soul is weak,
@@ -1763,7 +1763,7 @@ officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/wiki/Tsukasa_Kudamaki
 
 name: Megumu_Iizunamaru,
-image: https://en.touhouwiki.net/wiki/File:Th18Megumu2.png,
+image: https://en.touhouwiki.net/images/a/ae/Th18Megumu2.png,
 title: Chief of the Crow Tengu,
 species: Great Tengu,
 abilities: Capable of manipulating the starry sky,
@@ -1775,7 +1775,7 @@ officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/wiki/Megumu_Iizunamaru
 
 name: Chimata_Tenkyuu,
-image: https://en.touhouwiki.net/wiki/File:Th18Chimata.png,
+image: https://en.touhouwiki.net/images/e/ed/Th18Chimata.png,
 title: The God of the Unowned,
 species: God,
 abilities: Capable of letting one relinquish ownership,
@@ -1787,7 +1787,7 @@ officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/wiki/Chimata_Tenkyuu
 
 name: Momoyo_Himemushi,
-image: https://en.touhouwiki.net/wiki/File:Th18Himemushi.png,
+image: https://en.touhouwiki.net/images/5/51/Th18Himemushi.png,
 title: Onyx Dragon-Eater,
 species: Oomukade,
 abilities: Capable of eating dragons,
@@ -1799,7 +1799,7 @@ officialGames: Unconnected Marketeers,
 link: https://en.touhouwiki.net/wiki/Momoyo_Himemushi
 
 name: Rinnosuke_Morichika,
-image: https://en.touhouwiki.net/wiki/File:CoLARinnosukefull.jpg,
+image: https://en.touhouwiki.net/images/9/9c/CoLARinnosukefull.jpg,
 title: The Unmoving Used Goods Seller,
 species: Half-youkai,
 abilities: Knowing the name and utility of tools,
@@ -1811,7 +1811,7 @@ officialGames: Hopeless Masquerade,
 link: https://en.touhouwiki.net/wiki/Rinnosuke_Morichika
 
 name: Tokiko,
-image: https://en.touhouwiki.net/wiki/File:Tokiko CoLA ch1.jpg,
+image: https://en.touhouwiki.net/images/0/04/Tokiko_CoLA_ch1.jpg,
 title: null,
 species: Youkai(?),
 abilities: null,
@@ -1823,7 +1823,7 @@ officialGames: null,
 link: https://en.touhouwiki.net/wiki/Tokiko
 
 name: Star_Sapphire,
-image: https://en.touhouwiki.net/wiki/File:Star-sapphire-FW.png,
+image: https://en.touhouwiki.net/images/f/f6/Star-sapphire-FW.png,
 title: Showering Star Light,
 species: Fairy,
 abilities: Detection of moving things,
@@ -1835,7 +1835,7 @@ officialGames: Fairy Wars,
 link: https://en.touhouwiki.net/wiki/Star_Sapphire
 
 name: Sunny_Milk,
-image: https://en.touhouwiki.net/wiki/File:Sunny-milk-FW.png,
+image: https://en.touhouwiki.net/images/2/22/Sunny-milk-FW.png,
 title: Glimmering Sun Light,
 species: Fairy,
 abilities: Refraction of light,
@@ -1847,7 +1847,7 @@ officialGames: Fairy Wars,
 link: https://en.touhouwiki.net/wiki/Sunny_Milk
 
 name: Luna_Child,
-image: https://en.touhouwiki.net/wiki/File:Th128LunaChild.png,
+image: https://en.touhouwiki.net/images/2/20/Th128LunaChild.png,
 title: Silent Moon Light,
 species: Fairy,
 abilities: Muting the surrounding sound,
@@ -1859,7 +1859,7 @@ officialGames: Fairy Wars,
 link: https://en.touhouwiki.net/wiki/Luna_Child
 
 name: Minor_Characters#Tsuchinoko,
-image: https://en.touhouwiki.net/wiki/https://en.touhouwiki.net/images/9/98/SaBNDTsuchinoko.png,
+image: https://en.touhouwiki.net/images/9/98/SaBNDTsuchinoko.png,
 title: null,
 species: Tsuchinoko,
 abilities: Can control plants,
@@ -1871,7 +1871,7 @@ officialGames: null,
 link: https://en.touhouwiki.net/wiki/Minor_Characters#Tsuchinoko
 
 name: Sake_Bug,
-image: https://en.touhouwiki.net/wiki/File:SaBNDSakeBug.png,
+image: https://en.touhouwiki.net/images/4/49/SaBNDSakeBug.png,
 title: null,
 species: Shuchuu,
 abilities: Ability to create sake out of water,
@@ -1883,7 +1883,7 @@ officialGames: null,
 link: https://en.touhouwiki.net/wiki/Sake_Bug
 
 name: Reisen,
-image: https://en.touhouwiki.net/wiki/File:SSiBreisen.jpg,
+image: https://en.touhouwiki.net/images/e/e9/SSiBreisen.jpg,
 title: null,
 species: moon rabbit,
 abilities: null,
@@ -1895,7 +1895,7 @@ officialGames: null,
 link: https://en.touhouwiki.net/wiki/Reisen
 
 name: Watatsuki_no_Toyohime,
-image: https://en.touhouwiki.net/wiki/File:CiLRTWatatsukinoToyohime.jpg,
+image: https://en.touhouwiki.net/images/5/5b/CiLRTWatatsukinoToyohime.jpg,
 title: The Moon Princess Connecting Sea and Mountain,
 species: Lunarian,
 abilities: Good fortune; can manipulate the boundaries between the Earth and Moon, and between the scientific and fantastic versions of the Moon; can link the sea and mountains. Carries a fan capable of inflicting mass destruction.,
@@ -1907,7 +1907,7 @@ officialGames: null,
 link: https://en.touhouwiki.net/wiki/Watatsuki_no_Toyohime
 
 name: Watatsuki_no_Yorihime,
-image: https://en.touhouwiki.net/wiki/File:CiLRYWatatsukinoYorihime.jpg,
+image: https://en.touhouwiki.net/images/9/9d/CiLRYWatatsukinoYorihime.jpg,
 title: The Moon Princess Possessed by Divine Spirits,
 species: Lunarian,
 abilities: Easily absorbs knowledge, superb swordsmanship skills, can summon the power of the gods.,
@@ -1919,9 +1919,9 @@ officialGames: null,
 link: https://en.touhouwiki.net/wiki/Watatsuki_no_Yorihime
 
 name: Chang'e,
-image: https://en.touhouwiki.net/wiki/File:ChangeSSiB.jpg,
+image: https://en.touhouwiki.net/images/c/ca/ChangeSSiB.jpg,
 title: null,
-species: Lunarian God|Goddess),
+species: Lunarian God|Goddess,
 abilities: Immortality,
 age: Immortal,
 occupation: Prisoner, previously princess/noblewoman,
@@ -1931,7 +1931,7 @@ officialGames: Legacy of Lunatic Kingdom (Mentioned),
 link: https://en.touhouwiki.net/wiki/Chang'e
 
 name: Lord_Tsukuyomi,
-image: https://en.touhouwiki.net/wiki/null,
+image: null,
 title: null,
 species: Lunarian,
 abilities: null,
@@ -1943,7 +1943,7 @@ officialGames: null,
 link: https://en.touhouwiki.net/wiki/Lord_Tsukuyomi
 
 name: Kasen_Ibaraki,
-image: https://en.touhouwiki.net/wiki/File:Th155Kasen.png,
+image: https://en.touhouwiki.net/images/f/ff/Th155Kasen.png,
 title: The One-Armed, Horned Hermit,
 species: Hermit,
 abilities: Guiding animals,
@@ -1955,7 +1955,7 @@ officialGames: Urban Legend in Limbo,
 link: https://en.touhouwiki.net/wiki/Kasen_Ibaraki
 
 name: Kosuzu_Motoori,
-image: https://en.touhouwiki.net/wiki/File:FS_Kosuzu2.png,
+image: https://en.touhouwiki.net/images/b/b1/FS_Kosuzu2.png,
 title: Bibliophile with a Deciphering Eye,
 species: Human,
 abilities: The ability to decipher books by only touching them,
@@ -1967,7 +1967,7 @@ officialGames: Hopeless Masquerade (Background Character),
 link: https://en.touhouwiki.net/wiki/Kosuzu_Motoori
 
 name: Hieda_no_Akyuu,
-image: https://en.touhouwiki.net/wiki/File:Akyuu_FS4.png,
+image: https://en.touhouwiki.net/images/d/db/Akyuu_FS4.png,
 title: Memory of Gensokyo,
 species: Human,
 abilities: Not forgetting things seen once,
@@ -1979,7 +1979,7 @@ officialGames: null,
 link: https://en.touhouwiki.net/wiki/Hieda_no_Akyuu
 
 name: Mizuchi_Miyadeguchi,
-image: https://en.touhouwiki.net/wiki/File:Mizuchi_FDS.png,
+image: https://en.touhouwiki.net/images/d/db/Akyuu_FS4.png,
 title: Jailbreak King,
 species: Vengeful spirit,
 abilities: Capable of possessing people.,
@@ -1991,7 +1991,7 @@ officialGames: null,
 link: https://en.touhouwiki.net/wiki/Mizuchi_Miyadeguchi
 
 name: Miyoi_Okunoda,
-image: https://en.touhouwiki.net/wiki/File:TLE_-_Miyoi_Okunoda.jpg,
+image: https://en.touhouwiki.net/images/7/77/TLE_-_Miyoi_Okunoda.jpg,
 title: The Poster Girl of Geidontei, the Fantasy Pub,
 species: Zashiki-warashi,
 abilities: Manipulation of memories,
