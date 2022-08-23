@@ -1,15 +1,15 @@
 public class CharacterObjects {
-    String name;
-    String image;
-    String title;
-    String species;
-    String abilities;
-    String age;
-    String occupation;
-    String location;
-    String musicThemes;
-    String officialGames;
-    String link;
+    private String name;
+    private String image;
+    private String title;
+    private String species;
+    private String abilities;
+    private String age;
+    private String occupation;
+    private String location;
+    private String musicThemes;
+    private String officialGames;
+    private String link;
 
 
 

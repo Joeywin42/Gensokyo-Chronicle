@@ -1,0 +1,1 @@
+SELECT "hello world" AS statement, "mochi" AS puppy FROM DUAL;
